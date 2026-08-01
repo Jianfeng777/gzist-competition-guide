@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> 本项目已经迁移到 [Jianfeng777/gzus-competition-guide](https://github.com/Jianfeng777/gzus-competition-guide)。学生网站新地址为 <https://jianfeng777.github.io/gzus-competition-guide/>。本仓库仅保留历史记录与旧链接兼容跳转，不再执行竞赛数据审查。
+
 # 广州软件学院竞赛清单
 
 这是一个面向广州软件学院全校学生的竞赛信息导航。学生端只有三个主入口：

@@ -3,96 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,follow">
+  <meta http-equiv="refresh" content="1; url=https://jianfeng777.github.io/gzus-competition-guide/competitions.html">
+  <link rel="canonical" href="https://jianfeng777.github.io/gzus-competition-guide/competitions.html">
   <meta name="theme-color" content="#071b3d">
-  <meta name="description" content="按 A+、A、B+、B、C 等级浏览广州软件学院竞赛目录全部赛事，并按专业方向和赛事类型筛选。">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="竞赛清单｜广州软件学院">
-  <meta property="og:description" content="按等级浏览学校竞赛目录全部 204 项赛事。">
-  <meta property="og:url" content="https://jianfeng777.github.io/gzist-competition-guide/competitions.html">
-  <link rel="canonical" href="https://jianfeng777.github.io/gzist-competition-guide/competitions.html">
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20260801-3">
-  <title>竞赛清单｜广州软件学院</title>
+  <title>网站已迁移｜广州软件学院竞赛清单</title>
+  <style>
+    :root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #f4f7fb; color: #102341; }
+    main { width: min(560px, calc(100% - 40px)); padding: 40px; border: 1px solid #dbe4f0; border-radius: 24px; background: #fff; box-shadow: 0 18px 45px rgba(18, 50, 89, .10); text-align: center; }
+    .mark { width: 48px; height: 48px; margin: 0 auto 18px; display: grid; place-items: center; border-radius: 14px; background: #0b4a88; color: #fff; font-weight: 800; letter-spacing: .04em; }
+    h1 { margin: 0 0 12px; font-size: clamp(26px, 5vw, 36px); }
+    p { margin: 0 0 24px; line-height: 1.75; color: #53647c; }
+    a { display: inline-block; padding: 12px 20px; border-radius: 999px; background: #0b4a88; color: #fff; font-weight: 700; text-decoration: none; }
+  </style>
+  <script>
+    (() => {
+      const target = new URL("https://jianfeng777.github.io/gzus-competition-guide/competitions.html");
+      target.search = window.location.search;
+      target.hash = window.location.hash;
+      window.location.replace(target.href);
+    })();
+  </script>
 </head>
-<body data-page="competitions">
-  <a class="skip-link" href="#main-content">跳到主要内容</a>
-  <header class="site-header">
-    <div class="shell header-inner">
-      <a class="brand" href="index.html" aria-label="返回首页">
-        <span class="brand-mark" aria-hidden="true"><img src="assets/gzist-emblem.png" alt=""></span>
-        <span class="brand-copy"><strong>广州软件学院竞赛清单</strong><small>面向全校学生</small></span>
-      </a>
-      <button class="nav-toggle icon-button" type="button" aria-expanded="false" aria-controls="primary-nav"><span class="sr-only">打开导航</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
-      <nav class="primary-nav" id="primary-nav" aria-label="主导航"><a href="index.html" data-nav="home">首页</a><a href="competitions.html" data-nav="competitions">竞赛清单</a><a href="calendar.html" data-nav="calendar">报名月历</a></nav>
-      <button class="share-button" id="share-button" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.5-4.4M8.2 13.2l7.5 4.4"/></svg><span>分享</span></button>
-    </div>
-  </header>
-
-  <main id="main-content">
-    <section class="page-intro shell">
-      <h1>学校竞赛目录</h1>
-      <p>按学校目录等级查看全部赛事，可同时选择多个方向、类型和报名月份。赛事条目会直接标出报名月份。</p>
-      <div class="source-line"><span id="catalog-edition">2026年试行版</span><span>共 <strong id="catalog-total">204</strong> 项</span></div>
-    </section>
-
-    <section class="catalog-shell shell" aria-labelledby="catalog-title">
-      <h2 class="sr-only" id="catalog-title">竞赛清单</h2>
-      <div class="level-tabs" id="level-tabs" role="tablist" aria-label="按等级筛选">
-        <button type="button" role="tab" data-level="all" aria-selected="true">全部 <small>204</small></button>
-        <button type="button" role="tab" data-level="A+">A+ <small>11</small></button>
-        <button type="button" role="tab" data-level="A">A <small>46</small></button>
-        <button type="button" role="tab" data-level="B+">B+ <small>64</small></button>
-        <button type="button" role="tab" data-level="B">B <small>46</small></button>
-        <button type="button" role="tab" data-level="C">C <small>37</small></button>
-      </div>
-
-      <div class="catalog-toolbar">
-        <label class="search-field">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
-          <span class="sr-only">搜索赛事</span>
-          <input id="search-input" type="search" placeholder="搜索比赛名称、主办方或方向" autocomplete="off">
-        </label>
-        <div class="filter-row" aria-label="赛事筛选">
-          <details class="multi-filter" id="category-filter">
-            <summary><span>专业方向</span><strong data-filter-summary="category">全部方向</strong><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 9 5 5 5-5"/></svg></summary>
-            <div class="multi-filter-panel">
-              <div class="multi-options" id="category-options" role="group" aria-label="可多选专业方向"></div>
-              <button class="multi-clear" type="button" data-clear-filter="category">清空方向</button>
-            </div>
-          </details>
-          <details class="multi-filter" id="type-filter">
-            <summary><span>赛事类型</span><strong data-filter-summary="type">全部类型</strong><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 9 5 5 5-5"/></svg></summary>
-            <div class="multi-filter-panel">
-              <div class="multi-options" id="type-options" role="group" aria-label="可多选赛事类型"></div>
-              <button class="multi-clear" type="button" data-clear-filter="type">清空类型</button>
-            </div>
-          </details>
-          <details class="multi-filter month-filter" id="month-filter">
-            <summary><span>报名月份</span><strong data-filter-summary="month">全部月份</strong><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 9 5 5 5-5"/></svg></summary>
-            <div class="multi-filter-panel">
-              <p class="multi-filter-note">同一组内取并集，时间依据见清单标签。</p>
-              <div class="multi-options month-options" id="month-options" role="group" aria-label="可多选报名月份"></div>
-              <button class="multi-clear" type="button" data-clear-filter="month">清空月份</button>
-            </div>
-          </details>
-          <label class="single-filter"><span>入口状态</span><span class="select-control"><select id="link-filter"><option value="all">全部入口状态</option><option value="official">有核验官网</option><option value="registration">当前可报名</option><option value="missing">暂无核验入口</option></select><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 9 5 5 5-5"/></svg></span></label>
-          <button class="subtle-button" id="reset-filters" type="button">重置筛选</button>
-        </div>
-      </div>
-
-      <div class="result-bar"><p id="result-summary">正在读取清单…</p><label>每页显示 <select id="page-size"><option value="20">20 项</option><option value="40">40 项</option><option value="80">80 项</option></select></label></div>
-      <div class="catalog-table" role="table" aria-label="学校竞赛目录">
-        <div class="catalog-header" role="row"><span>等级</span><span>竞赛名称</span><span>方向、类型与报名月</span><span>主办方</span><span>入口</span><span>操作</span></div>
-        <div class="catalog-results" id="competition-list" role="rowgroup" aria-live="polite"></div>
-      </div>
-      <div class="empty-state" id="empty-state" hidden><h3>没有找到匹配的比赛</h3><p>试试清空关键词或切换筛选条件。</p><button class="button button-secondary" id="empty-reset" type="button">清空筛选</button></div>
-      <nav class="pagination" id="pagination" aria-label="赛事清单分页"></nav>
-    </section>
+<body>
+  <main>
+    <div class="mark" aria-hidden="true">GZUS</div>
+    <h1>网站已迁移</h1>
+    <p>广州软件学院竞赛清单已使用 GZUS 新名称。正在为你打开新竞赛清单，原有查询条件会继续保留。</p>
+    <a href="https://jianfeng777.github.io/gzus-competition-guide/competitions.html">立即前往新网站</a>
   </main>
-
-  <footer class="site-footer"><div class="shell footer-inner"><div><strong>广州软件学院竞赛清单</strong><p>完整收录学校竞赛目录中的项目。</p></div><p>具体安排以学校通知和主办方信息为准。</p></div></footer>
-  <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <noscript><p class="noscript">此页面需要启用 JavaScript 才能筛选完整清单。</p></noscript>
-  <script src="data.js"></script><script src="site.js"></script><script src="competitions.js?v=20260801-3"></script>
 </body>
 </html>
