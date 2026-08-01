@@ -15,7 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
+
+      - name: Build and validate the full school catalog
+        run: |
+          node scripts/build-catalog.mjs
+          node scripts/validate-catalog.mjs
 
       - name: Check official and registration links
         id: links
@@ -33,12 +38,14 @@ jobs:
             echo
             echo "请按以下顺序人工复核："
             echo
+            echo "- [ ] 对照学校最新竞赛目录，确认 204 项清单是否新增、改名或调整等级"
             echo "- [ ] 逐项确认是否出现新的当届或下一届官方通知"
             echo "- [ ] 已开放报名的项目补充主办方官方报名入口"
-            echo "- [ ] 已关闭报名的项目改为不可点击，并写明下一次预计窗口"
-            echo "- [ ] 仍未出现新一届官方信息的项目从学生网站撤下"
-            echo "- [ ] C 类候选仅在官网、年份和参与价值均核实后加入"
-            echo "- [ ] 更新 site/data.js、页面更新时间与 sitemap.xml"
+            echo "- [ ] 已关闭报名的项目改为不可点击，并写明当届结果或下次建议查看时间"
+            echo "- [ ] 更新报名月份；当届已核实与往届参考必须分开标注"
+            echo "- [ ] 复核 A+、A、B+、B、C 五个等级的官网、报名入口和赛事简介"
+            echo "- [ ] 未找到官网或当届信息的项目继续保留，只关闭入口并写清状态"
+            echo "- [ ] 修改 data/ 中的源数据后，运行构建与校验生成 site/data.js"
             echo
             cat link-audit.md
           } > monthly-review.md

@@ -1,0 +1,3902 @@
+{
+  "schemaVersion": 1,
+  "sourceAsOf": "2026-07-31",
+  "importedFrom": "month-registration-map.json",
+  "records": {
+    "catalog-aplus-001": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“挑战杯”全国大学生课外学术科技作品竞赛（含“人工智能+”相关方向）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            9,
+            10,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 only has 2027-cycle cultivation signals; no national registration window."
+        }
+      ]
+    },
+    "catalog-aplus-002": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“挑战杯”中国大学生创业计划大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 event is underway, but the supplied research has no exact 2026 signup dates."
+        }
+      ]
+    },
+    "catalog-aplus-003": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国国际大学生创新大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The official 7–11 month range is the event period, not a student registration window."
+        }
+      ]
+    },
+    "catalog-aplus-004": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        8,
+        9,
+        10
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        8,
+        9,
+        10
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "ACM-ICPC国际大学生程序设计竞赛（ICPC）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            8,
+            9,
+            10
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026–2027 station pages exist, but individual station dates are not yet complete."
+        }
+      ]
+    },
+    "catalog-aplus-005": {
+      "sourceEvidenceStatus": "mixed",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [
+        3
+      ],
+      "candidateMonths2026": [
+        1,
+        2,
+        3
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生机器人大赛—RoboMaster AI挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration deadline is 03-18; 01-15 is the season launch, not explicitly labelled signup start."
+        },
+        {
+          "name": "全国大学生机器人大赛—RoboMaster机甲大师高校系列赛（RMUC等）",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Verified for the 2026 edition, but the registration itself occurred in 2025; do not place it in a 2026 month view."
+        },
+        {
+          "name": "全国大学生机器人大赛—ROBOCON",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The text gives problem release and midterm/final dates, not registration."
+        },
+        {
+          "name": "全国大学生机器人大赛—ROBOTAC",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The text gives season and inspection dates, not registration."
+        }
+      ]
+    },
+    "catalog-aplus-006": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生节能减排社会实践与科技竞赛（含产业命题赛道）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 event timing is known, but exact student signup dates are not."
+        }
+      ]
+    },
+    "catalog-aplus-007": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        6
+      ],
+      "verifiedMonths2026": [
+        6
+      ],
+      "candidateMonths2026": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "historicalMonths": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“中国软件杯”大学生软件设计大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            6
+          ],
+          "historicalMonths": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 deadline 06-30; earlier months come only from the usual cycle."
+        }
+      ]
+    },
+    "catalog-aplus-008": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [
+        3
+      ],
+      "candidateMonths2026": [
+        2,
+        3
+      ],
+      "historicalMonths": [
+        2,
+        3
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "中国大学生服务外包创新创业大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [
+            2,
+            3
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration was extended to 03-31."
+        }
+      ]
+    },
+    "catalog-aplus-009": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-aplus-010": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-aplus-011": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-001": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        9
+      ],
+      "verifiedMonths2026": [
+        9
+      ],
+      "candidateMonths2026": [
+        8,
+        9
+      ],
+      "historicalMonths": [
+        8,
+        9
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生数学建模竞赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            9
+          ],
+          "historicalMonths": [
+            8,
+            9
+          ],
+          "availability": "contact_school_immediately_as_of_2026-07-31",
+          "note": "National deadline 09-07 20:00; actual student cutoff may be earlier."
+        }
+      ]
+    },
+    "catalog-a-002": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-003": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-004": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生智能汽车竞赛（人工智能视觉/人工智能模型等组）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 finals are known; registration window is not supplied."
+        }
+      ]
+    },
+    "catalog-a-005": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生电子商务“创新、创意及创业”挑战赛（三创赛，含AI电商/商务大数据实战）",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 edition signup deadline was in 2025."
+        }
+      ]
+    },
+    "catalog-a-006": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        4
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        4
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生物流设计大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            4
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest supplied registration evidence is the 2025 edition."
+        }
+      ]
+    },
+    "catalog-a-007": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        5,
+        6,
+        7
+      ],
+      "verifiedMonths2026": [
+        5,
+        6,
+        7
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生信息安全竞赛—作品赛/“长城杯”网数智安全作品赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            5,
+            6,
+            7
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 window 05-29 through 07-05."
+        },
+        {
+          "name": "全国大学生信息安全竞赛—创新实践能力赛/“长城杯”网数智安全防护赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 season registered in December 2025."
+        }
+      ]
+    },
+    "catalog-a-008": {
+      "sourceEvidenceStatus": "mixed",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        1
+      ],
+      "verifiedMonths2026": [
+        1
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        12
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生电子设计竞赛—英特尔杯嵌入式AI专题赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            1
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "School registration deadline 01-20."
+        },
+        {
+          "name": "全国大学生电子设计竞赛（主赛及2026信息科技前沿/模拟电子专题赛）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 is a topic-contest year; supplied dates are finals, not registration."
+        }
+      ]
+    },
+    "catalog-a-009": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生市场调查与分析大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 edition registered in October 2025."
+        }
+      ]
+    },
+    "catalog-a-010": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-011": {
+      "sourceEvidenceStatus": "mixed",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verifiedMonths2026": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "candidateMonths2026": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "中国高校计算机大赛—团体程序设计天梯赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "School registration was completed in March 2026; no exact date supplied."
+        },
+        {
+          "name": "中国高校计算机大赛—大数据挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration 03-26 through 07-15."
+        },
+        {
+          "name": "中国高校计算机大赛—移动应用创新赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 launch and track submission deadlines are known, but a common registration window is not."
+        },
+        {
+          "name": "中国高校计算机大赛—网络技术挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3,
+            4
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration 03-04 through 04-14."
+        },
+        {
+          "name": "中国高校计算机大赛—人工智能创意赛（鸿蒙/昇腾双赛道）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 preliminary and final dates are supplied, not signup dates."
+        },
+        {
+          "name": "中国高校计算机大赛—AIGC创新赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3,
+            4,
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 application track 03-16 through 05-11."
+        },
+        {
+          "name": "中国高校计算机大赛—微信小程序应用开发赛（旧目录赛项）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Independent event not found in the current CCCC module list."
+        }
+      ]
+    },
+    "catalog-a-012": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "未来设计师·全国高校数字艺术设计大赛（NCDA，含AIGC与音视频算法方向）",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Main and AIGC submission deadlines are known; do not label all candidate months as open registration."
+        }
+      ]
+    },
+    "catalog-a-013": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-014": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [
+        3
+      ],
+      "candidateMonths2026": [
+        1,
+        2,
+        3
+      ],
+      "historicalMonths": [
+        1,
+        2,
+        3
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生集成电路创新创业大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [
+            1,
+            2,
+            3
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration deadline 03-31."
+        }
+      ]
+    },
+    "catalog-a-015": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        4,
+        5
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "睿抗机器人开发者大赛（RAICOM，含CAIP大模型及智能体/算法调优、CAIR AI视觉等）",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Many schools registered in April–May, but no single official range applies to all tracks."
+        }
+      ]
+    },
+    "catalog-a-016": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-017": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-018": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        2,
+        3,
+        4
+      ],
+      "verifiedMonths2026": [
+        2,
+        3,
+        4
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "中国高校智能机器人创意大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            2,
+            3,
+            4
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Different 2026 tracks had deadlines from 02-20 through 04-30."
+        }
+      ]
+    },
+    "catalog-a-019": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4
+      ],
+      "verifiedMonths2026": [
+        4
+      ],
+      "candidateMonths2026": [
+        3,
+        4
+      ],
+      "historicalMonths": [
+        3,
+        4
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生嵌入式芯片与系统设计竞赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4
+          ],
+          "historicalMonths": [
+            3,
+            4
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "System application track deadline 04-20."
+        }
+      ]
+    },
+    "catalog-a-020": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国大学生计算机设计大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 national rounds are known, but registration dates vary by school/province."
+        }
+      ]
+    },
+    "catalog-a-021": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        9,
+        10,
+        11
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        9,
+        10,
+        11
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "国际高校BIM毕业设计创新大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            9,
+            10,
+            11
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Dates describe the 2025–2026 cycle; next season not found."
+        }
+      ]
+    },
+    "catalog-a-022": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verifiedMonths2026": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "iCAN大学生创新创业大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "historicalMonths": [],
+          "availability": "entrepreneurship_track_open_as_of_2026-07-31",
+          "note": "Entrepreneurship track registration 04-01 through 08-31; innovation track school deadlines vary in June–July."
+        }
+      ]
+    },
+    "catalog-a-023": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-024": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        7,
+        8,
+        9
+      ],
+      "verifiedMonths2026": [
+        7,
+        8,
+        9
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "百度之星程序设计大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            7,
+            8,
+            9
+          ],
+          "historicalMonths": [],
+          "availability": "open_as_of_2026-07-31",
+          "note": "2026 individual registration runs July–September; each preliminary closes one hour before start."
+        }
+      ]
+    },
+    "catalog-a-025": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-026": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [
+        3
+      ],
+      "candidateMonths2026": [
+        1,
+        2,
+        3
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Official deadline 03-10; do not generalize unofficial/local extensions."
+        }
+      ]
+    },
+    "catalog-a-027": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        1,
+        2,
+        3
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "码蹄杯全国职业院校程序设计大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 launch and early-March school cutoffs are known, but exact public windows are missing."
+        }
+      ]
+    },
+    "catalog-a-028": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全球校园人工智能算法精英大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Season launched 04-28; every problem has its own signup/submission deadline."
+        }
+      ]
+    },
+    "catalog-a-029": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        3,
+        4
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生统计建模大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 school registration commonly ran late March to early April; no universal dates supplied."
+        }
+      ]
+    },
+    "catalog-a-030": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-031": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [
+        3
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 RoboCup China deadline 03-31."
+        }
+      ]
+    },
+    "catalog-a-032": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国机器人及人工智能大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 events are active, but no unified registration window is supplied."
+        }
+      ]
+    },
+    "catalog-a-033": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-034": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4,
+        5
+      ],
+      "verifiedMonths2026": [
+        4,
+        5
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生信息安全与对抗技术竞赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4,
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 personal/CTF registration was in April–May; team tracks are separate."
+        }
+      ]
+    },
+    "catalog-a-035": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-036": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [
+        3,
+        4,
+        5
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“西门子杯”中国智能制造挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3,
+            4,
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 official window 03-01 through 05-31."
+        }
+      ]
+    },
+    "catalog-a-037": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [
+        4,
+        5,
+        6
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国三维数字化创新设计大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4,
+            5,
+            6
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "General track registration 04-03 through 06-30; later AI dates are submission deadlines."
+        }
+      ]
+    },
+    "catalog-a-038": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "中国好创意暨全国数字艺术设计大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2025–2026 edition remained open through 06-30 in calendar year 2026."
+        }
+      ]
+    },
+    "catalog-a-039": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "华为ICT大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Verified 2025–2026 registration occurred in 2025; no new-season 2026 dates yet."
+        }
+      ]
+    },
+    "catalog-a-040": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-041": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [
+        4,
+        5,
+        6
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生物联网设计竞赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4,
+            5,
+            6
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration 04-01 through 06-15."
+        }
+      ]
+    },
+    "catalog-a-042": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        4,
+        5,
+        6
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生数字媒体科技作品及创意竞赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 04-08 to 06-30 creative stage is not explicitly labelled registration."
+        }
+      ]
+    },
+    "catalog-a-043": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        5
+      ],
+      "verifiedMonths2026": [
+        5
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "一带一路暨金砖国家技能发展与技术创新大赛（数智化创新创业、电子商务运营数据分析、数字人力资源管理技能、跨境电商进出口经营模拟、大数据财务应用与管理会计决策、商务数据分析、技术创新赛等）",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Only the enterprise AI-agent track has a supplied signup deadline (05-31). Never apply it to all BRICS tracks."
+        }
+      ]
+    },
+    "catalog-a-044": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        2,
+        3,
+        4
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        2,
+        3,
+        4
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "Open Harmony 智能化应用生态挑战赛（开放原子开源大赛）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            2,
+            3,
+            4
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Same-name evidence is from 2024; the 2025 native-AI event is not the same catalog competition."
+        }
+      ]
+    },
+    "catalog-a-045": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-a-046": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-001": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        9,
+        10,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "美国大学生数学建模竞赛(MCM)和交叉学科建模竞赛(ICM)",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            9,
+            10,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2027 deadline is official, but the supplied start month is only a recent-cycle pattern, not a verified 2026 opening date."
+        }
+      ]
+    },
+    "catalog-bplus-002": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国大学生原创动漫大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Do not substitute a 2025 provincial competition for the national catalog item."
+        }
+      ]
+    },
+    "catalog-bplus-003": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-004": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-005": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-006": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [
+        3,
+        4,
+        5
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "广东“众创杯”创业创新大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            3,
+            4,
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 launched 03-23 and closed around early May."
+        }
+      ]
+    },
+    "catalog-bplus-007": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国高校电子信息类实践创新作品竞赛",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "No reliable recent registration cycle."
+        }
+      ]
+    },
+    "catalog-bplus-008": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-009": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "广东大学生科技学术季系列赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Every subevent needs its own date; never present April–September as one continuous window."
+        }
+      ]
+    },
+    "catalog-bplus-010": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-011": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-012": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        4,
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "广东高校科技成果转化路演大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            4,
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest supplied notice is 2025."
+        }
+      ]
+    },
+    "catalog-bplus-013": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-014": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        5,
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“圆梦杯”全国大学生智能硬件设计大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "A 2026 portal exists, but detailed month data comes from the 2024 rules."
+        }
+      ]
+    },
+    "catalog-bplus-015": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-016": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国青年科普创新实验暨作品大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Only previous-edition timing is available."
+        }
+      ]
+    },
+    "catalog-bplus-017": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-018": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-019": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-020": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-021": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-022": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-023": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-024": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国移动商务应用能力大赛",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "No 2024–2026 official notice or reliable cycle."
+        }
+      ]
+    },
+    "catalog-bplus-025": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“博创杯”全国大学生嵌入式物联网设计大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Current embedded contest is under China Computer Design Competition; do not duplicate it as an independent open event."
+        }
+      ]
+    },
+    "catalog-bplus-026": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-027": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-028": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-029": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国移动互联创新大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "No continuous 2023–2026 official notices found."
+        }
+      ]
+    },
+    "catalog-bplus-030": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-031": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-032": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-033": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-034": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-035": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-036": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-037": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        5,
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国科技创新创业大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 current event exists under '中国创新创业大赛'; exact 2026 registration window is not in the supplied data."
+        }
+      ]
+    },
+    "catalog-bplus-038": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-039": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-040": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-041": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-042": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-043": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        1
+      ],
+      "verifiedMonths2026": [
+        1
+      ],
+      "candidateMonths2026": [
+        1
+      ],
+      "historicalMonths": [
+        1,
+        11,
+        12
+      ],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "Global Game Jam 全球游戏开发大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            1
+          ],
+          "historicalMonths": [
+            1,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 site registration closed around 01-12."
+        }
+      ]
+    },
+    "catalog-bplus-044": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-045": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国计算机应用技术大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The supplied 4–5 month range is only a recent-cycle pattern."
+        }
+      ]
+    },
+    "catalog-bplus-046": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        3,
+        4,
+        5
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "百度商业AI技术创新大赛",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "invitation_only_2026",
+          "note": "Keep for awareness but never enable a public signup button."
+        }
+      ]
+    },
+    "catalog-bplus-047": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国财经大数据处理综合技能大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2025 provincial material is not proof of the national event."
+        }
+      ]
+    },
+    "catalog-bplus-048": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-049": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-050": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-051": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-052": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-053": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-054": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        5
+      ],
+      "verifiedMonths2026": [
+        5
+      ],
+      "candidateMonths2026": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生金融科技创新能力大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            5
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 launched in May; June–September is work collection, not necessarily signup."
+        }
+      ]
+    },
+    "catalog-bplus-055": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-056": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-057": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-058": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-059": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-060": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-061": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-062": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-bplus-063": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        9,
+        10
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        9,
+        10
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生软件测试大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            9,
+            10
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest supplied official cycle is 2025."
+        }
+      ]
+    },
+    "catalog-bplus-064": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-001": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-002": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-003": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "传智杯全国IT 技能大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 range combines registration, training, and school selection; it cannot support an open-registration month badge without the detailed notice."
+        }
+      ]
+    },
+    "catalog-b-004": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-005": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生大数据分析技术技能大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 notice exists, but the supplied registration statement only says 'usually spring'."
+        }
+      ]
+    },
+    "catalog-b-006": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生智慧供应链创新创业挑战赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Old name appears to have evolved into/overlap with catalog B35."
+        }
+      ]
+    },
+    "catalog-b-007": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        9,
+        10
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        9,
+        10
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“强网杯”全国网络安全挑战赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            9,
+            10
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest verified edition is 2025."
+        }
+      ]
+    },
+    "catalog-b-008": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-009": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-010": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“蓝盾杯”网络空间安全大赛",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "No stable recent official cycle found."
+        }
+      ]
+    },
+    "catalog-b-011": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-012": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-013": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-014": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        8,
+        9
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        8,
+        9
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国大学生物流仿真设计大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            8,
+            9
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 event existence is known; registration months come only from recent patterns."
+        }
+      ]
+    },
+    "catalog-b-015": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-016": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-017": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-018": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-019": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-020": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-021": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-022": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-023": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“清华社杯”大学生算法大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Do not use for an 'open now' badge."
+        }
+      ]
+    },
+    "catalog-b-024": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-025": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-026": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-027": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-028": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-029": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“深圳杯”数学建模挑战赛",
+          "evidenceClass": "unknown",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "suspended_2026",
+          "note": "Keep the catalog row, but show '2026 suspended' and no signup button/month."
+        }
+      ]
+    },
+    "catalog-b-030": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-031": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "大学生算法挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "03-11 to 07-03 is verified for the 2026 edition, but the source summary does not separate signup from competition."
+        }
+      ]
+    },
+    "catalog-b-032": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-033": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-034": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-035": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        3,
+        4
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国数智商业生态运营大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration is approximately March–April; exact dates need a track notice."
+        }
+      ]
+    },
+    "catalog-b-036": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4
+      ],
+      "verifiedMonths2026": [
+        4
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国高校数智化商业决策创新大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 deadline approximately 04-05."
+        }
+      ]
+    },
+    "catalog-b-037": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-038": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "全国高校计算机能力挑战赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest verified edition is 2025."
+        }
+      ]
+    },
+    "catalog-b-039": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "教育信息技术应用创新大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 period and extension to 07-20 are known, but signup is not isolated."
+        }
+      ]
+    },
+    "catalog-b-040": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "“新道杯”智能体（AIAgent）开发与应用创新大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Second edition not found as of 2026-07-31."
+        }
+      ]
+    },
+    "catalog-b-041": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "广东青年大学生“百千万工程”突击队系列竞赛（包括“文创+”竞赛、“人工智能+”竞赛、“短视频创作”竞赛等）",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "The 2026 practice program is not enough to claim the independent contest is open."
+        }
+      ]
+    },
+    "catalog-b-042": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-043": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-044": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-045": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-b-046": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-001": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-002": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "数码港粤港青年创业计划",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Window varies heavily by edition."
+        }
+      ]
+    },
+    "catalog-c-003": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-004": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-005": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        9,
+        10,
+        11
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        9,
+        10,
+        11
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "粤港澳大湾区 IT 应用系统开发大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            9,
+            10,
+            11
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest supplied edition is 2025."
+        }
+      ]
+    },
+    "catalog-c-006": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        2,
+        3,
+        4
+      ],
+      "verifiedMonths2026": [
+        2,
+        3,
+        4
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“泰迪杯”全国数据挖掘挑战赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            2,
+            3,
+            4
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 registration 02-01 through 04-10."
+        }
+      ]
+    },
+    "catalog-c-007": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国大学生新媒体创意大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Latest clear evidence is the 2025 launch."
+        }
+      ]
+    },
+    "catalog-c-008": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "中国(北京)国际大学生动画节",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2025 collection season only."
+        }
+      ]
+    },
+    "catalog-c-009": {
+      "sourceEvidenceStatus": "historical",
+      "registrationTimingKind": "historical",
+      "registrationMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "monthFilterEligible": false,
+      "childEvidence": [
+        {
+          "name": "腾讯 NEXTIDEA 高校游戏创意制作大赛",
+          "evidenceClass": "historical",
+          "verifiedMonths2026": [],
+          "historicalMonths": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Too stale for an 'open now' badge."
+        }
+      ]
+    },
+    "catalog-c-010": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-011": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-012": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-013": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        4
+      ],
+      "verifiedMonths2026": [
+        4
+      ],
+      "candidateMonths2026": [
+        4,
+        5
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“赢在广州”暨粤港澳大湾区大学生创业大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            4
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 launched in April; later deadlines must be shown per phase."
+        }
+      ]
+    },
+    "catalog-c-014": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-015": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-016": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        6
+      ],
+      "verifiedMonths2026": [
+        6
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "厦门国际动漫节游戏开发大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            6
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Recruitment opened around 06-09 for a 21-day challenge; calculate/show the official displayed deadline if available."
+        }
+      ]
+    },
+    "catalog-c-017": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-018": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        6
+      ],
+      "verifiedMonths2026": [
+        6
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "海峡两岸暨港澳地区大学生计算机创新作品赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            6
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "2026 regional/national cutoff around 06-15."
+        }
+      ]
+    },
+    "catalog-c-019": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-020": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-021": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-022": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-023": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-024": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-025": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-026": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-027": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        7
+      ],
+      "verifiedMonths2026": [
+        7
+      ],
+      "candidateMonths2026": [
+        6,
+        7
+      ],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "“创客中国”中小企业创新创业大赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            7
+          ],
+          "historicalMonths": [],
+          "availability": "closed_or_unknown_as_of_2026-07-31",
+          "note": "Domestic region/topic deadline 07-10; platform import 07-20 is an organizer action, not a student deadline."
+        }
+      ]
+    },
+    "catalog-c-028": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-029": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-030": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-031": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-032": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-033": {
+      "sourceEvidenceStatus": "verified_2026",
+      "registrationTimingKind": "verified_2026",
+      "registrationMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verifiedMonths2026": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": true,
+      "childEvidence": [
+        {
+          "name": "全国大学生数据分析实践赛",
+          "evidenceClass": "verified_2026",
+          "verifiedMonths2026": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "historicalMonths": [],
+          "availability": "open_as_of_2026-07-31",
+          "note": "2026 registration 07-21 09:00 through 12-11 16:00."
+        }
+      ]
+    },
+    "catalog-c-034": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-035": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-036": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    },
+    "catalog-c-037": {
+      "sourceEvidenceStatus": "unknown",
+      "registrationTimingKind": "unknown",
+      "registrationMonths": [],
+      "verifiedMonths2026": [],
+      "candidateMonths2026": [],
+      "historicalMonths": [],
+      "monthFilterEligible": false,
+      "childEvidence": []
+    }
+  }
+}

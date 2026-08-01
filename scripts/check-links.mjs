@@ -9,15 +9,14 @@ const sandbox = { window: {} };
 vm.runInNewContext(source, sandbox, { filename: "site/data.js" });
 
 const competitions = Array.isArray(sandbox.window.COMPETITIONS) ? sandbox.window.COMPETITIONS : [];
-const registration = sandbox.window.REGISTRATION_INFO || {};
 const targets = [];
 
 for (const event of competitions) {
-  if (event.website) {
+  if (event.website && event.websiteStatus === "verified") {
     targets.push({ id: event.id, name: event.name, kind: "赛事官网", url: event.website });
   }
-  const entry = registration[event.id];
-  if (entry?.url) {
+  const entry = event.registration && typeof event.registration === "object" ? event.registration : {};
+  if (entry.url) {
     targets.push({ id: event.id, name: event.name, kind: "报名入口", url: entry.url });
   }
 }

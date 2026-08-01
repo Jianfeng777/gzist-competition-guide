@@ -1,0 +1,1430 @@
+[
+  {
+    "level": "A+",
+    "catalog_no": 1,
+    "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+    "organizer": "共青团中央、中国科协、教育部、中国社会科学院、全国学联",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 2,
+    "name": "“挑战杯”中国大学生创业计划大赛",
+    "organizer": "共青团中央、中国科协、教育部、全国学联",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 3,
+    "name": "中国国际大学生创新大赛",
+    "organizer": "教育部、中央统战部、中央网信办、国家发展改革委、工业和信息化部、人力资源社会保障部、农业农村部、中国科学院、中国工程院、国家知识产权局、共青团中央和河南省人民政府",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 4,
+    "name": "ACM-ICPC 国际大学生程序设计竞赛",
+    "organizer": "美国计算机协会",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 5,
+    "name": "全国大学生机器人大赛",
+    "organizer": "共青团中央、全国学联",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 6,
+    "name": "全国大学生节能减排社会实践与科技竞赛",
+    "organizer": "教育部",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 7,
+    "name": "“中国软件杯”大学生软件设计大赛",
+    "organizer": "工业和信息化部、教育部、江苏省人民政府",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 8,
+    "name": "中国大学生服务外包创新创业大赛",
+    "organizer": "教育部、商务部、无锡市人民政府",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 9,
+    "name": "全国大学生职业规划大赛",
+    "organizer": "教育部",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 10,
+    "name": "中华经典诵写讲大赛（讲解/书写/诵读/篆刻类）",
+    "organizer": "教育部、国家语委",
+    "pdf_page": 2
+  },
+  {
+    "level": "A+",
+    "catalog_no": 11,
+    "name": "全国大学生运动会",
+    "organizer": "中华人民共和国教育部、中华人民共和国国家体育总局、中国共产主义青年团中央委员会",
+    "pdf_page": 2
+  },
+  {
+    "level": "A",
+    "catalog_no": 1,
+    "name": "全国大学生数学建模竞赛",
+    "organizer": "教育部高等教育司、中国工业与应用数学学会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 2,
+    "name": "全国大学生机械创新设计大赛",
+    "organizer": "教育部高等学校机械学科教学指导委员会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 3,
+    "name": "全国大学生广告艺术大赛",
+    "organizer": "教育部高等学校新闻传播学类专业教学指导委员会、中国高等教育学会广告教育专业委员会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 4,
+    "name": "全国大学生智能汽车竞赛",
+    "organizer": "教育部高等教育司、中国自动化学会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 5,
+    "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+    "organizer": "教育部高等学校电子商务专业教学指导委员会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 6,
+    "name": "全国大学生物流设计大赛",
+    "organizer": "教育部高等学校物流类专业教学指导委员会、中国物流与采购联合会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 7,
+    "name": "全国大学生信息安全竞赛",
+    "organizer": "教育部高等教育司、工业和信息化部信息安全协调司、教育部高等学校信息安全类专业教学指导委员会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 8,
+    "name": "全国大学生电子设计竞赛（含嵌入式系统专题邀请赛）",
+    "organizer": "教育部、工业和信息化部",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 9,
+    "name": "全国大学生市场调查与分析大赛",
+    "organizer": "中国商业统计学会、教育部高等学校统计学类专业教学指导委员会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 10,
+    "name": "两岸新锐设计竞赛·华灿奖",
+    "organizer": "中国高等教育学会、中华中山文化交流协会、北京歌华文化发展集团",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 11,
+    "name": "中国高校计算机大赛——大数据挑战赛、团体程序天梯赛、移动运用创新赛、网络技术挑战赛、微信小程序应用开发赛、人工智能创意赛",
+    "organizer": "全国高等学校计算机教育研究会、鄂尔多斯市人民政府、清华大学",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 12,
+    "name": "未来设计师·全国高校数字艺术设计大赛",
+    "organizer": "工业和信息化部人才交流中心",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 13,
+    "name": "全国高校商业精英挑战赛——国际贸易竞赛、创新创业竞赛、会计与商业管理案例竞赛、品牌策划赛、商务谈判竞赛、物流与供应链竞赛",
+    "organizer": "中国国际贸易促进委员会商业行业委员会、中国国际商会商业行业商会、中国商业会计学会、中国仓储与配送协会、中国商业经济学会",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 14,
+    "name": "全国大学生集成电路创新创业大赛",
+    "organizer": "工业和信息化部人才交流中心",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 15,
+    "name": "睿抗机器人开发者大赛(RAICOM)",
+    "organizer": "工业和信息化部人才交流中心",
+    "pdf_page": 3
+  },
+  {
+    "level": "A",
+    "catalog_no": 16,
+    "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+    "organizer": "北京外国语大学主办，外语教学与研究出版社承办",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 17,
+    "name": "米兰设计周——中国高校设计学科师生优秀作品展",
+    "organizer": "中国教育国际交流协会、中国高等教育学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 18,
+    "name": "中国高校智能机器人创意大赛",
+    "organizer": "中国高校智能机器人创意大赛组委会、浙江省余姚市人民政府、浙江大学机器人研究院",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 19,
+    "name": "全国大学生嵌入式芯片与系统设计竞赛",
+    "organizer": "中国电子学会、中国电子教育学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 20,
+    "name": "中国大学生计算机设计大赛",
+    "organizer": "中国大学生计算机设计大赛组织委员会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 21,
+    "name": "国际高校BIM毕业设计创新大赛",
+    "organizer": "中国土木工程学会建筑市场与招标投标研究分会、国家数字建筑行业产教融合共同体、广联达科技股份有限公司",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 22,
+    "name": "iCAN大学生创新创业大赛",
+    "organizer": "iCAN大学生创新创业大赛组织委员会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 23,
+    "name": "全国本科院校税收风险管控案例大赛",
+    "organizer": "全国本科院校税收风险管控案例大赛组委会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 24,
+    "name": "百度之星程序设计大赛",
+    "organizer": "百度在线网络技术（北京）有限公司（简称百度公司）",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 25,
+    "name": "“科云杯”全国大学生财会职业能力大赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 26,
+    "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+    "organizer": "工业和信息化部人才交流中心、中国通信企业协会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 27,
+    "name": "码蹄杯全国职业院校程序设计大赛",
+    "organizer": "全国高等学校计算机教育研究会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 28,
+    "name": "全球校园人工智能算法精英大赛",
+    "organizer": "江苏省人工智能学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 29,
+    "name": "全国大学生统计建模大赛",
+    "organizer": "中国统计教育学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 30,
+    "name": "全国大学生艺术展演系列赛事（舞蹈、戏剧、音乐、美术、语言等）",
+    "organizer": "教育部",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 31,
+    "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+    "organizer": "中国自动化学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 32,
+    "name": "中国机器人及人工智能大赛",
+    "organizer": "中国人工智能学会",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 33,
+    "name": "“21世纪杯”全国英语演讲比赛",
+    "organizer": "中国日报社（21世纪报社）",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 34,
+    "name": "全国大学生信息安全与对抗技术竞赛",
+    "organizer": "中国兵工学会、北京理工大学、教育部信息对抗技术专业虚拟教研室",
+    "pdf_page": 4
+  },
+  {
+    "level": "A",
+    "catalog_no": 35,
+    "name": "全国大学生工业设计大赛",
+    "organizer": "全国工业设计一流专业建设协同创新平台、广东省教育厅、广东省本科高校工业设计专业教学指导委员会",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 36,
+    "name": "“西门子杯”中国智能制造挑战赛",
+    "organizer": "中国仿真学会、西门子(中国)有限公司",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 37,
+    "name": "全国三维数字化创新设计大赛",
+    "organizer": "国家制造业信息化培训中心、全国三维数字化技术推广服务与教育培训联盟(3D 动力)、光华设计发展基金会",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 38,
+    "name": "中国好创意暨全国数字艺术设计大赛",
+    "organizer": "全国高等院校计算机基础教育研究会、中国电子视像行业协会",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 39,
+    "name": "华为ICT大赛",
+    "organizer": "华为技术有限公司",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 40,
+    "name": "“学创杯”全国大学生创业综合模拟大赛",
+    "organizer": "高等学校国家级实验教学示范中心（经济与管理学科组）",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 41,
+    "name": "全国大学生物联网设计竞赛",
+    "organizer": "全国高等学校计算机教育研究会、全国大学生物联网设计竞赛组织委员会",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 42,
+    "name": "全国大学生数字媒体科技作品及创意竞赛",
+    "organizer": "中国人工智能学会",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 43,
+    "name": "一带一路暨金砖国家技能发展与技术创新大赛（数智化创新创业、电子商务运营数据分析、数字人力资源管理技能、跨境电商进出口经营模拟、大数据财务应用与管理会计决策、商务数据分析、技术创新赛等）",
+    "organizer": "金砖国家工商理事会中方理事会、一带一路暨金砖国家技能发展国际联盟、中国科协“一带一路”暨金砖国家技能发展与技术创新培训中心",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 44,
+    "name": "Open Harmony 智能化应用生态挑战赛（开放原子开源大赛）",
+    "organizer": "工业和信息化部、江苏省人民政府、湖南省人民政府",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 45,
+    "name": "中华职业教育创新创业大赛",
+    "organizer": "教育部、人力资源和社会保障部、中央统战部",
+    "pdf_page": 5
+  },
+  {
+    "level": "A",
+    "catalog_no": 46,
+    "name": "“中国创翼”创新创业大赛",
+    "organizer": "国家人力资源和社会保障部、中国宋庆龄基金会",
+    "pdf_page": 5
+  },
+  {
+    "level": "B+",
+    "catalog_no": 1,
+    "name": "美国大学生数学建模竞赛(MCM)和交叉学科建模竞赛(ICM)",
+    "organizer": "美国数学及其应用联合会(COMAP)",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 2,
+    "name": "中国大学生原创动漫大赛",
+    "organizer": "教育部高等学校动画、数字媒体专业教学指导委员会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 3,
+    "name": "全国大学生英语竞赛",
+    "organizer": "全国高等师范院校外语教学与研究协作组",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 4,
+    "name": "《人民中国杯》系列赛——日语国际翻译、演讲、写作、听力、才艺展示大赛等",
+    "organizer": "中国外文局、教育部外国语言文学类教学指导委员会日语分委会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 5,
+    "name": "全国供应链大赛",
+    "organizer": "中国物流与采购联合会 中国物流学会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 6,
+    "name": "广东“众创杯”创业创新大赛",
+    "organizer": "广东省人力资源和社会保障厅、广东省科学技术厅、广东省教育厅广东省财政厅、广东省人民政府港澳事务办公室、广东省人民政府台湾事务办公室、共青团广东省委员会、广东省妇女联合会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 7,
+    "name": "全国高校电子信息类实践创新作品竞赛",
+    "organizer": "中国电子学会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 8,
+    "name": "广东省大学生“行业—专业—就业人才需求分析”大赛",
+    "organizer": "广东省教育厅",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 9,
+    "name": "广东大学生科技学术季系列赛",
+    "organizer": "共青团广东省委员会、广东省教育厅、广东省科学技术厅、广东省学联",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 10,
+    "name": "广东大学生校园文体艺术季系列赛",
+    "organizer": "共青团广东省委员会、广东省教育厅广东省文化和旅游厅、广东省体育局、广东省学联",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 11,
+    "name": "中国动漫金龙奖",
+    "organizer": "国家广播电视总局、广东省人民政府",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 12,
+    "name": "广东高校科技成果转化路演大赛",
+    "organizer": "广东省教育厅",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 13,
+    "name": "广东大学生社会治理调研大赛",
+    "organizer": "共青团广东省委员会、广东省教育厅广东省科学技术厅、广东省科学技术协会、广东省学生联合会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 14,
+    "name": "“圆梦杯”全国大学生智能硬件设计大赛",
+    "organizer": "中国电子学会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 15,
+    "name": "广东省“5·25”大学生心理健康月活动竞赛",
+    "organizer": "广东省教育厅",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 16,
+    "name": "全国青年科普创新实验暨作品大赛",
+    "organizer": "中国科学技术协会、共青团中央青年发展部",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 17,
+    "name": "广东省高校设计作品学院奖双年展",
+    "organizer": "广东省教育厅、广东省美术家协会",
+    "pdf_page": 6
+  },
+  {
+    "level": "B+",
+    "catalog_no": 18,
+    "name": "全国大学生金蝶云管理创新杯大赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 19,
+    "name": "全国高校EVC 企业价值创造实战竞赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 20,
+    "name": "IF设计奖",
+    "organizer": "汉诺威工业设计论坛",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 21,
+    "name": "EPDA欧洲产品设计奖",
+    "organizer": "EPDA 组委会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 22,
+    "name": "金点设计奖",
+    "organizer": "台湾设计研究院",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 23,
+    "name": "美国星火设计奖(The Spark Design Awards)",
+    "organizer": "Spark 组委会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 24,
+    "name": "全国移动商务应用能力大赛",
+    "organizer": "全国电子商务职业教育教学指导委员会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 25,
+    "name": "“博创杯”全国大学生嵌入式物联网设计大赛",
+    "organizer": "教育部高等学校计算机类专业教学指导委员会、中国电子学会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 26,
+    "name": "POCIB 全国外贸从业能力大赛",
+    "organizer": "中国国际贸易学会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 27,
+    "name": "OCALE 全国跨境电商创新创业能力大赛",
+    "organizer": "中国国际贸易学会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 28,
+    "name": "“远华杯”会展技能大赛",
+    "organizer": "教育部高等学校旅游管理类专业教学指导委员会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 29,
+    "name": "全国移动互联创新大赛",
+    "organizer": "全国高等学校计算机教育研究会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 30,
+    "name": "中国人居环境设计学年奖",
+    "organizer": "清华大学、教育部高等学校设计学类专业教学指导委员会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 31,
+    "name": "平安中国“三微”比赛暨优秀政法文化作品征集评选",
+    "organizer": "中央政法委办公厅",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 32,
+    "name": "“东方财富杯”全国大学生金融精英挑战赛",
+    "organizer": "共青团中央青年发展部",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 33,
+    "name": "全国旅游院校服务技能大赛",
+    "organizer": "中国旅游协会旅游教育分会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 34,
+    "name": "广东省“立志·修身·博学·报国”主题教育系列活动",
+    "organizer": "广东省教育厅",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 35,
+    "name": "“多彩乡村 共谱新篇”系列实践活动",
+    "organizer": "广东省人民政府地方志办公室、广东省精神文明建设委员会办公室、中共广东省委港澳工作办公室、广东省教育厅、广东省科学技术厅、广东省农业农村厅、共青团广东省委员会、广东省学生联合会",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 36,
+    "name": "广东省科普作品创作大赛",
+    "organizer": "广东省科学技术协会、中共广东省委宣传部、广东省教育厅、广东省科学技术厅、广东省卫生健康委员会、广东省生态环境厅、广东省林业局、中国科学院广州分院、广东省科学院",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 37,
+    "name": "中国科技创新创业大赛",
+    "organizer": "工业和信息化部火炬高技术产业开发中心",
+    "pdf_page": 7
+  },
+  {
+    "level": "B+",
+    "catalog_no": 38,
+    "name": "习近平新时代中国特色社会主义思想大学习领航计划主题教育活动",
+    "organizer": "教育部办公厅",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 39,
+    "name": "广东省大学生艺术展演活动",
+    "organizer": "广东省教育厅",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 40,
+    "name": "广东省学生“学宪法 讲宪法”活动",
+    "organizer": "广东省教育厅",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 41,
+    "name": "全国大学日语演讲比赛",
+    "organizer": "教育部高等学校大学外语教学指导委员会、高等学校大学外语教学研究会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 42,
+    "name": "GGAC全球游戏动漫美术概念大赛",
+    "organizer": "上海点晴科技旗下美术盒子（ABOX）、中央美术学院、四川美术学院",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 43,
+    "name": "Global Game Jam 全球游戏开发大赛",
+    "organizer": "CiGA中国独立游戏联盟、网易数字产业中心、吉林动画学院",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 44,
+    "name": "全国大学生网络文化节",
+    "organizer": "教育部、中央网信办",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 45,
+    "name": "中国计算机应用技术大赛",
+    "organizer": "中国计算机学会（CCF)",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 46,
+    "name": "百度商业AI技术创新大赛",
+    "organizer": "百度商业、中国人工智能学会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 47,
+    "name": "全国财经大数据处理综合技能大赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 48,
+    "name": "社科奖全国高校市场营销大赛",
+    "organizer": "中国市场学会、教育部毕业生就业协会、全国高校市场营销大赛组委会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 49,
+    "name": "全国数字贸易技能大赛",
+    "organizer": "中国对外贸易经济合作企业协会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 50,
+    "name": "全国啦啦操社区运动会",
+    "organizer": "国家体育总局体操运动管理中心和中国蹦床与技巧协会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 51,
+    "name": "德国红点设计奖",
+    "organizer": "德国设计协会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 52,
+    "name": "“建模大师杯”全国BIM建模大赛",
+    "organizer": "上海市建筑信息模型技术协会、上海市建筑施工行业协会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 53,
+    "name": "“龙图杯”全国BIM（建筑信息模型）大赛",
+    "organizer": "中国图学学会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 54,
+    "name": "全国大学生金融科技创新能力大赛",
+    "organizer": "高等学校国家级实验教学示范中心联席会、全国大学生金融科技创新能力大赛组委会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 55,
+    "name": "全国企业竞争模拟大赛",
+    "organizer": "中国管理现代化研究会决策模拟专业委员会",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 56,
+    "name": "广东省高校原创音乐作品征集活动",
+    "organizer": "广东省教育厅",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 57,
+    "name": "粤港澳大湾区大学生艺术节系列赛事",
+    "organizer": "广东省教育厅",
+    "pdf_page": 8
+  },
+  {
+    "level": "B+",
+    "catalog_no": 58,
+    "name": "广东省大中小学校“百歌颂中华”歌咏活动系列赛事（舞蹈、戏剧等）",
+    "organizer": "广东省教育厅",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 59,
+    "name": "广东省大中学生美术与设计作品大赛",
+    "organizer": "广东省教育厅",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 60,
+    "name": "广东省大学生英语演讲比赛",
+    "organizer": "广东省教育厅",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 61,
+    "name": "全国高校经济学综合博弈实验大赛",
+    "organizer": "中国商业经济学会",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 62,
+    "name": "中华全国日语演讲比赛",
+    "organizer": "中国教育国际交流协会与日本经济新闻社、中日学术交流中心（日本华人教授会议）",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 63,
+    "name": "全国大学生软件测试大赛",
+    "organizer": "教育部软件工程专业教学指导委员会、中国电子技术标准化研究院、中国计算机学会软件工程专业委员会、中国计算机学会系统软件专业委员会、中国计算机学会容错计算专业委员会",
+    "pdf_page": 9
+  },
+  {
+    "level": "B+",
+    "catalog_no": 64,
+    "name": "全国大学生数学竞赛",
+    "organizer": "中国数学学会、青年工作与大学生数学竞赛委员会、全国大学生数学竞赛工作组",
+    "pdf_page": 9
+  },
+  {
+    "level": "B",
+    "catalog_no": 1,
+    "name": "中国包装创意设计大赛",
+    "organizer": "中国包装联合会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 2,
+    "name": "“CATTI”杯全国翻译大赛",
+    "organizer": "全国翻译专业学位研究生教育指导委员会、中国外文局翻译院",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 3,
+    "name": "传智杯全国IT 技能大赛",
+    "organizer": "全国高等院校计算机基础教育研究会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 4,
+    "name": "全国跨境电商专业能力大赛",
+    "organizer": "中国对外贸易经济合作企业协会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 5,
+    "name": "全国大学生大数据分析技术技能大赛",
+    "organizer": "中国大数据网、北京大数据协会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 6,
+    "name": "全国大学生智慧供应链创新创业挑战赛",
+    "organizer": "中国商业联合会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 7,
+    "name": "“强网杯”全国网络安全挑战赛",
+    "organizer": "河南省委网信办、河南省教育厅、郑州市人民政府、信息工程大学、郑州大学、中国网络空间安全协会（中央网信办、河南省人民政府）",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 8,
+    "name": "广东省退役军人创业大赛",
+    "organizer": "广东省退役军人事务厅",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 9,
+    "name": "中国大学生广告艺术节学院奖",
+    "organizer": "中国广告协会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 10,
+    "name": "“蓝盾杯”网络空间安全大赛",
+    "organizer": "中国职工技术协会、中国能源化学地质工会全国委员会、中国机械冶金建材工会全国委员会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 11,
+    "name": "全国新零售技能大赛",
+    "organizer": "中国商业联合会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 12,
+    "name": "全国青年大学生心理健康知识竞赛",
+    "organizer": "全国青年大学生心理健康知识竞赛组委会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 13,
+    "name": "“衡信杯”全国大学生智慧税务大赛、全国个税精英挑战赛、全国税务预警精英挑战赛",
+    "organizer": "全国智慧税务行业产教融合共同体、全国产教融合创新创业联盟、财政税务委员会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 14,
+    "name": "全国大学生物流仿真设计大赛",
+    "organizer": "中国物流生产力促进中心、湖北物资流通技术研究所（湖北物资流通生产力促进中心）",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 15,
+    "name": "中国大学生公共关系策划创业大赛",
+    "organizer": "中国公共国际关系协会（CIPRA）",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 16,
+    "name": "“新人杯”全国大学生室内设计竞赛",
+    "organizer": "CIID“新人杯”全国大学生室内设计竞赛组委会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 17,
+    "name": "“畅享杯”全国数字商业技能大赛",
+    "organizer": "中国商业联合会",
+    "pdf_page": 10
+  },
+  {
+    "level": "B",
+    "catalog_no": 18,
+    "name": "“福斯特杯”全国大学生审计精英挑战赛",
+    "organizer": "中国审计学会审计教育分会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 19,
+    "name": "全国大学生粤港澳海洋旅游创新大赛",
+    "organizer": "中国旅游协会旅游教育分会、广东万山群岛旅游发展有限公司、珠海科技学院",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 20,
+    "name": "全国大学生财经素养大赛",
+    "organizer": "中国商业经济学院教育培训分会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 21,
+    "name": "广州园林博览会大学生园林设计竞赛",
+    "organizer": "广州市林业和园林局、广东园林学会、华南理工大学建筑学院、中国公园协会公园文化与园林艺术专业委员会、中国勘察设计协会风景园林与生态环境分会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 22,
+    "name": "全国大学生人力资源管理综合能力竞赛",
+    "organizer": "中国人力资源开发研究会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 23,
+    "name": "“清华社杯”大学生算法大赛",
+    "organizer": "中国电子学会现代教育技术分会、清华大学出版社有限公司",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 24,
+    "name": "“网中网杯”大学生财务决策大赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 25,
+    "name": "笹川杯品书知日本征文大赛",
+    "organizer": "中国外文局亚太传播中心",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 26,
+    "name": "全国大学生学术英语词汇大赛",
+    "organizer": "中国学术英语教学研究会、上海高校大学英语教学指导委员会、全国高校大学外语教育数字化联盟",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 27,
+    "name": "BETT 杯全国大学生英语词汇大赛",
+    "organizer": "中国城市商业网点建设管理联合会、国际商务交流与外语研究分会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 28,
+    "name": "广东女大学生创新创业大赛",
+    "organizer": "广东女子职业技术学院、广东省职业院校创新创业教育工作指导委员会、广东省乡村振兴促进会、广东粤城产业发展有限公司",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 29,
+    "name": "“深圳杯”数学建模挑战赛",
+    "organizer": "中国工业与应用数学学会、深圳市科学技术协会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 30,
+    "name": "“外教社·词达人杯”全国大学生英语词汇能力大赛",
+    "organizer": "中国外语战略研究中心、中国外语教材与教法研究中心、上海外语教育出版社",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 31,
+    "name": "大学生算法挑战赛",
+    "organizer": "中国机电一体化技术应用协会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 32,
+    "name": "“外研U词杯”全国大学生英语词汇智慧学习大赛",
+    "organizer": "外语教学与研究出版社（简称“外研社”）",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 33,
+    "name": "中外传播杯全国大学生英语翻译大赛",
+    "organizer": "中国外文局亚太传播中心（人民中国杂志社、中国报道杂志社）",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 34,
+    "name": "全国大学生翻译大赛",
+    "organizer": "高等学校大学外语教学研究会、全国高等师范院校外语教学与研究协作组​ 主办，英语辅导报社和《考试与评价》杂志社",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 35,
+    "name": "全国数智商业生态运营大赛",
+    "organizer": "中国商业联合会",
+    "pdf_page": 11
+  },
+  {
+    "level": "B",
+    "catalog_no": 36,
+    "name": "全国高校数智化商业决策创新大赛",
+    "organizer": "中国商业经济学会主办、浙江精创教育科技有限公司、亚洲组织与员工促进(EAP)协会、海峡两岸职业教育交流合作中心",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 37,
+    "name": "广东省大学生专项体育赛事",
+    "organizer": "广东省教育厅、广东省体育局、广东省学生体育艺术联合会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 38,
+    "name": "全国高校计算机能力挑战赛",
+    "organizer": "全国高等学校计算机教育研究会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 39,
+    "name": "教育信息技术应用创新大赛",
+    "organizer": "中国教育技术协会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 40,
+    "name": "“新道杯”智能体（AIAgent）开发与应用创新大赛",
+    "organizer": "中国商业联合会、新道科技股份有限公司",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 41,
+    "name": "广东青年大学生“百千万工程”突击队系列竞赛（包括“文创+”竞赛、“人工智能+”竞赛、“短视频创作”竞赛等）",
+    "organizer": "共青团广东省委员会、广东省学生联合会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 42,
+    "name": "中国合唱节",
+    "organizer": "中国合唱协会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 43,
+    "name": "全国校园主持人大赛",
+    "organizer": "中央人民广播电台",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 44,
+    "name": "广东省岭南舞蹈大赛",
+    "organizer": "广东省文联、广东省舞蹈家协会",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 45,
+    "name": "广东省中青年戏剧演艺大赛",
+    "organizer": "广东省文联、省剧协",
+    "pdf_page": 12
+  },
+  {
+    "level": "B",
+    "catalog_no": 46,
+    "name": "中国大学生自行车锦标赛",
+    "organizer": "中国学生体育联合会",
+    "pdf_page": 12
+  },
+  {
+    "level": "C",
+    "catalog_no": 1,
+    "name": "广东大学生单项体育竞赛",
+    "organizer": "广东省学生体育艺术联合会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 2,
+    "name": "数码港粤港青年创业计划",
+    "organizer": "香港数码港、广东软件行业协会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 3,
+    "name": "(艾景奖)国际园林景观规划设计大赛",
+    "organizer": "中国长城绿化促进会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 4,
+    "name": "广东省大学生物流设计大赛",
+    "organizer": "广东省本科高校物流管理与工程类专业教学指导委员会、广东省物流与供应链学会、广东省电子商务协会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 5,
+    "name": "粤港澳大湾区 IT 应用系统开发大赛",
+    "organizer": "广东省高性能计算学会、广州市大湾区智能科技人才联合会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 6,
+    "name": "“泰迪杯”全国数据挖掘挑战赛",
+    "organizer": "全国大学生数学建模竞赛组织委员会",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 7,
+    "name": "中国大学生新媒体创意大赛",
+    "organizer": "凤凰出版传媒集团、山东出版传媒股份有限公司、商务印书馆、广西师范大学出版社、中国人民大学出版社、中国出版传媒商报、宸冰阅读（北京）文化传媒有限公司、北京北大方正电子有限公司（国际人才文化传播工作委员会、中国广播影视培训网、北京新视听国际传媒中心）",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 8,
+    "name": "中国(北京)国际大学生动画节",
+    "organizer": "中国传媒大学、北京爱奇艺科技有限公司",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 9,
+    "name": "腾讯 NEXTIDEA 高校游戏创意制作大赛",
+    "organizer": "腾讯游戏学堂",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 10,
+    "name": "香港当代设计奖",
+    "organizer": "香港美术设计协会、香港美术设计研究院",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 11,
+    "name": "广东省“联盟杯”本科高校英语写作大赛",
+    "organizer": "广东省本科高校大学英语课程教学指导委员会、广东省本科高校外语类专业教学指导委员会英语专业分委员会、中国高校英语写作教学联盟",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 12,
+    "name": "国际大学生英语翻译挑战赛",
+    "organizer": "国际学术研究院外语教育研究所、香港语言研究会、国际（澳门）学术研究院",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 13,
+    "name": "“赢在广州”暨粤港澳大湾区大学生创业大赛",
+    "organizer": "广州市人力资源和社会保障局",
+    "pdf_page": 13
+  },
+  {
+    "level": "C",
+    "catalog_no": 14,
+    "name": "广东省“燕兴杯”大学英语应用能力竞赛",
+    "organizer": "广东省本科高校大学英语课程教学指导委员会、广东省高等教育学会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 15,
+    "name": "广东省大学生广告节",
+    "organizer": "广东省广告协会、暨南大学、广东省高教学会港澳台侨学生管理研究分会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 16,
+    "name": "厦门国际动漫节游戏开发大赛",
+    "organizer": "厦门市人民政府",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 17,
+    "name": "清远马拉松",
+    "organizer": "清远市人民政府、广东省田径协会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 18,
+    "name": "海峡两岸暨港澳地区大学生计算机创新作品赛",
+    "organizer": "全国高等学校计算机教育研究会、海峡两岸暨港澳地区大学生计算机创新作品赛组织委员会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 19,
+    "name": "广州合唱节",
+    "organizer": "广州市文化广电旅游局",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 20,
+    "name": "“中国故事大赛·双语中国”全国大学生外语翻译大赛",
+    "organizer": "中国寓言文学研究会教育教学专业委员会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 21,
+    "name": "中国大学生人力资源创新实践大赛",
+    "organizer": "中国劳动关系学院、中国人才交流协会、国投人力资源服务有限公司",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 22,
+    "name": "“典阅杯”全国高校跨境电子商务综合能力大赛",
+    "organizer": "中国国际贸易学会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 23,
+    "name": "“立信杯”全国会计技能大赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 24,
+    "name": "第八届全国职业院校跨境电商技能大赛",
+    "organizer": "上海市高职高专经济类专业教学指导委员会、上海产学合作教育协会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 25,
+    "name": "全国大学生财税精英赛",
+    "organizer": "中国商业会计学会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 26,
+    "name": "全国绿色供应链与逆向物流设计大赛（云丰杯）",
+    "organizer": "上海市学生事务中心、上海市物流协会、上海市物流学会、上海市运筹学会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 27,
+    "name": "“创客中国”中小企业创新创业大赛",
+    "organizer": "工业和信息化部、财政部",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 28,
+    "name": "全国大学生英语翻译能力竞赛全国性赛事英语专业组英译汉赛道",
+    "organizer": "中国外文局亚太传播中心(人民中国杂志社、中国报道杂志社)",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 29,
+    "name": "全国青年创新翻译大赛",
+    "organizer": "中国对外翻译有限公司",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 30,
+    "name": "《英语世界》杯全国大学生翻译大赛",
+    "organizer": "商务印书馆《英语世界》杂志社（全国翻译专业学位研究生教育指导委员会）",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 31,
+    "name": "中国人の日本語作文コンクール（中国人的日语作文比赛）",
+    "organizer": "中日交流研究所、日本侨报社",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 32,
+    "name": "全国大学生普通话大赛",
+    "organizer": "中国语文报刊协会读写教学分会",
+    "pdf_page": 14
+  },
+  {
+    "level": "C",
+    "catalog_no": 33,
+    "name": "全国大学生数据分析实践赛",
+    "organizer": "中国现场统计研究会",
+    "pdf_page": 15
+  },
+  {
+    "level": "C",
+    "catalog_no": 34,
+    "name": "广东省高校体育舞蹈锦标赛",
+    "organizer": "广东省高校体育舞蹈协会",
+    "pdf_page": 15
+  },
+  {
+    "level": "C",
+    "catalog_no": 35,
+    "name": "广东省大学生街舞锦标赛",
+    "organizer": "广东省学生体育艺术联合会",
+    "pdf_page": 15
+  },
+  {
+    "level": "C",
+    "catalog_no": 36,
+    "name": "广州马拉松",
+    "organizer": "广州市人民政府",
+    "pdf_page": 15
+  },
+  {
+    "level": "C",
+    "catalog_no": 37,
+    "name": "深圳马拉松",
+    "organizer": "深圳市人民政府",
+    "pdf_page": 15
+  }
+]
