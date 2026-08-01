@@ -1,5 +1,8 @@
 .DS_Store
 link-audit.md
 monthly-review.md
+weekly-review.md
+review-queue.md
+review-queue.json
 design-reference/
 *.inspect.ndjson

@@ -1,9 +1,9 @@
-name: Monthly competition review
+name: Weekly competition review
 
 on:
   schedule:
-    - cron: "20 9 1 * *"
-      timezone: "Asia/Shanghai"
+    # GitHub cron 使用 UTC：每周一 00:30 UTC = Asia/Shanghai 08:30。
+    - cron: "30 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -17,46 +17,117 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Build and validate the full school catalog
+      - name: Build the full school catalog
+        id: build
+        continue-on-error: true
+        run: node scripts/build-catalog.mjs
+
+      - name: Validate catalog structure
+        id: catalog
+        continue-on-error: true
+        run: node scripts/validate-catalog.mjs
+
+      - name: Validate student summaries
+        id: summaries
+        continue-on-error: true
+        run: node scripts/validate-summaries.mjs
+
+      - name: Validate review provenance and states
+        id: review_state
+        continue-on-error: true
+        run: node scripts/validate-review-state.mjs
+
+      - name: Build the weekly semantic review queue
+        id: queue
+        continue-on-error: true
         run: |
-          node scripts/build-catalog.mjs
-          node scripts/validate-catalog.mjs
+          review_date="$(TZ=Asia/Shanghai date +'%Y-%m-%d')"
+          node scripts/build-review-queue.mjs --as-of "$review_date" --limit 50 --markdown review-queue.md --json review-queue.json
 
       - name: Check official and registration links
         id: links
         continue-on-error: true
         run: node scripts/check-links.mjs --report link-audit.md
 
-      - name: Create or update monthly review issue
+      - name: Create or update weekly exception issue
+        if: >-
+          ${{ always() && (
+            steps.build.outcome == 'failure' ||
+            steps.catalog.outcome == 'failure' ||
+            steps.summaries.outcome == 'failure' ||
+            steps.review_state.outcome == 'failure' ||
+            steps.queue.outcome == 'failure' ||
+            steps.links.outcome == 'failure'
+          ) }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_OUTCOME: ${{ steps.build.outcome }}
+          CATALOG_OUTCOME: ${{ steps.catalog.outcome }}
+          SUMMARIES_OUTCOME: ${{ steps.summaries.outcome }}
+          REVIEW_STATE_OUTCOME: ${{ steps.review_state.outcome }}
+          QUEUE_OUTCOME: ${{ steps.queue.outcome }}
+          LINKS_OUTCOME: ${{ steps.links.outcome }}
         run: |
-          review_month="$(TZ=Asia/Shanghai date +'%Y-%m')"
-          title="月度赛事更新检查 ${review_month}"
+          review_week="$(TZ=Asia/Shanghai date +'%G-W%V')"
+          checked_at="$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M %Z')"
+          title="每周赛事审查异常 ${review_week}"
+
           {
             echo "# ${title}"
             echo
-            echo "请按以下顺序人工复核："
+            echo "自动检查时间：${checked_at}"
             echo
-            echo "- [ ] 对照学校最新竞赛目录，确认 204 项清单是否新增、改名或调整等级"
-            echo "- [ ] 逐项确认是否出现新的当届或下一届官方通知"
-            echo "- [ ] 已开放报名的项目补充主办方官方报名入口"
-            echo "- [ ] 已关闭报名的项目改为不可点击，并写明当届结果或下次建议查看时间"
-            echo "- [ ] 更新报名月份；当届已核实与往届参考必须分开标注"
-            echo "- [ ] 复核 A+、A、B+、B、C 五个等级的官网、报名入口和赛事简介"
-            echo "- [ ] 未找到官网或当届信息的项目继续保留，只关闭入口并写清状态"
-            echo "- [ ] 修改 data/ 中的源数据后，运行构建与校验生成 site/data.js"
+            echo "## 自动检查结果"
             echo
-            cat link-audit.md
-          } > monthly-review.md
+            echo "| 步骤 | 结果 |"
+            echo "| --- | --- |"
+            echo "| 生成全校竞赛清单 | ${BUILD_OUTCOME} |"
+            echo "| 目录结构校验 | ${CATALOG_OUTCOME} |"
+            echo "| 竞赛简介校验 | ${SUMMARIES_OUTCOME} |"
+            echo "| 审查状态与来源校验 | ${REVIEW_STATE_OUTCOME} |"
+            echo "| 深度语义审查队列 | ${QUEUE_OUTCOME} |"
+            echo "| 官网与报名链接 | ${LINKS_OUTCOME} |"
+            echo
+            echo "## 审查原则"
+            echo
+            echo "- [ ] 学生端的月份标签只表达可参考的报名月份，不在界面上区分当届、往届或其他来源；数据层必须继续保留 provenance、核验时间和依据链接。"
+            echo "- [ ] 赛事官网只能指向主办方官方赛事主页，不得使用学校喜报、转载通知、搜索结果或聚合页作为入口。"
+            echo "- [ ] 报名按钮只在主办方官方入口已确认当前开放时启用；已关闭、无法确认或仅有非官方链接时必须禁用。"
+            echo "- [ ] 没有当届消息、官网或报名入口时，继续保留学校目录项目，只更新状态与提示，不自动删除。"
+            echo "- [ ] 结构校验失败、页面依赖脚本、验证码、登录、限流或其他接口阻断，必须升级为浏览器语义复核；浏览器仍受阻时再提醒维护者，不得仅凭 HTTP 结果判定赛事失效。"
+            echo
+            echo "## 本周深度语义审查队列"
+            echo
+            if [ -s review-queue.md ]; then
+              cat review-queue.md
+            else
+              echo "> 队列未生成，请检查定期任务、脚本参数和数据结构。"
+            fi
+            echo
+            if [ -s link-audit.md ]; then
+              cat link-audit.md
+            else
+              echo "## 自动链接检查"
+              echo
+              echo "> 链接报告未生成，需人工检查脚本或网络环境。"
+            fi
+          } > weekly-review.md
 
           existing="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number // empty')"
           if [ -n "$existing" ]; then
-            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body-file monthly-review.md
+            gh issue edit "$existing" --repo "$GITHUB_REPOSITORY" --body-file weekly-review.md
           else
-            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file monthly-review.md
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file weekly-review.md
           fi
 
-      - name: Mark hard link failures
-        if: steps.links.outcome == 'failure'
+      - name: Mark unresolved automation failures
+        if: >-
+          ${{ always() && (
+            steps.build.outcome == 'failure' ||
+            steps.catalog.outcome == 'failure' ||
+            steps.summaries.outcome == 'failure' ||
+            steps.review_state.outcome == 'failure' ||
+            steps.queue.outcome == 'failure' ||
+            steps.links.outcome == 'failure'
+          ) }}
         run: exit 1

@@ -13,9 +13,9 @@
 - 学生端完整展示学校 2026 年竞赛目录的 204 个父项，包括 A+、A、B+、B 和 C 类。
 - 每个项目保留学校目录的等级、序号、名称、主办方和 PDF 页码，再通过独立覆盖层补充已核验信息。
 - 赛事官网只有在既有核验记录能与学校目录父项可靠对应时才开放；研究中的官方页优先放入证据链接，不自动当作学生跳转入口。
-- 报名入口与赛事官网分开维护；只有经人工核验为 `open` 且具有 HTTPS 官方报名地址时才可点击。
+- 报名入口与赛事官网分开维护；只有经逐页深度核验为 `open` 且具有 HTTPS 官方报名地址时才可点击。
 - 不使用学校喜报、转载通知、搜索结果或聚合页面作为学生入口。
-- 报名月份区分 `verified_2026`、`historical` 和 `unknown`；往届规律只作备赛参考，不表示当前可报名。
+- 学生端月份标签统一表达可参考的报名月份，不在标签外观上区分信息来源；数据层仍保留 `verified_2026`、`historical` 和 `unknown` 等 provenance、核验时间与依据链接，往届规律不表示当前可报名。
 
 ## 数据维护
 
@@ -31,12 +31,29 @@
 ```bash
 node scripts/build-catalog.mjs
 node scripts/validate-catalog.mjs
+node scripts/validate-summaries.mjs
+node scripts/validate-review-state.mjs
+node scripts/build-review-queue.mjs --as-of "$(TZ=Asia/Shanghai date +'%Y-%m-%d')" --limit 50 --markdown review-queue.md --json review-queue.json
+node scripts/check-links.mjs --report link-audit.md
 ```
 
 校验会确认总数为 204、`id` 和“等级+序号”唯一、分类与状态枚举合法、所有对外链接为 HTTPS，以及开放报名必须具有 URL。
 
-## 每月维护
+## 每周自动维护
 
-GitHub Actions 每月 1 日自动检查已核验官网与已登记的报名入口，并创建一条月度复核 Issue。自动检查只负责发现连接和 HTTP 状态问题，目录版本、届次、报名状态、报名月份和赛事内容仍需逐页人工确认。
+`.github/workflows/monthly-review.yml` 在每周一上午 08:30（Asia/Shanghai，GitHub cron 为周一 00:30 UTC）执行，也可以通过 `workflow_dispatch` 手动启动。它先做独立的构建、数据和链接健康检查；正常时不创建 Issue，只有检查失败或入口明确失效时才创建当周异常 Issue。09:00 的 Codex 定期任务随后执行深度语义审查并直接更新仓库。自动维护路径为：
+
+1. 从学校目录和已核验覆盖层重建 `catalog.json` 与 `site/data.js`。
+2. 校验目录结构、学生端简介、审查状态与信息来源。
+3. 生成本周深度语义审查队列，再检查官方赛事主页和当前开放的官方报名入口。
+4. Codex 按队列逐项查看官方来源；确定无歧义的变化直接修改源数据、记录审查状态、重建并校验。
+5. 正常变更直接提交到 `main` 并由 Pages 发布；只有结构变化、官方信息冲突、验证码/登录阻断或无法确认入口时才创建 Issue 并提醒维护者。
+
+### 异常升级
+
+- HTTP `404` 或 `410` 会使链接检查失败，但仍需确认是入口迁移、届次切换还是页面真正下线。
+- HTTP `401`、`403`、`405`、`429`、`5xx`、超时、前端渲染等结果先由 Codex 改用浏览器复核；只有验证码、登录或浏览器仍无法确认时才进入 Issue。
+- 目录结构、provenance 或构建校验失败时，工作流会在 Issue 中保留各步结果并标记失败，由维护者人工修复。
+- 任何异常都不会自动删除学校竞赛目录项目；在无法确认当届信息时，只关闭官网或报名入口并写明待核实状态。
 
 学生网站位于 `site/`；核验脚本和 GitHub 工作流不会进入学生导航。合并到 `main` 分支后，Pages 工作流会自动发布 `site/`。

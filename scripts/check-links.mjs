@@ -40,7 +40,7 @@ async function check(target) {
       redirect: "follow",
       signal: controller.signal,
       headers: {
-        "User-Agent": "gzist-competition-guide-monthly-check/1.0",
+        "User-Agent": "gzist-competition-guide-weekly-check/1.0",
         Accept: "text/html,application/xhtml+xml"
       }
     });

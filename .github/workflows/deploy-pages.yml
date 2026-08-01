@@ -28,6 +28,8 @@ jobs:
         run: |
           node scripts/build-catalog.mjs
           node scripts/validate-catalog.mjs
+          node scripts/validate-summaries.mjs
+          node scripts/validate-review-state.mjs
 
       - name: Configure Pages
         uses: actions/configure-pages@v6
