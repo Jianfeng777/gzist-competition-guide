@@ -109,7 +109,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入创新创业与科创，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括发现真实问题并形成创新成果；完成数据采集、算法或系统设计、实验对比、社会/产业价值论证、研究报告和答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -177,7 +177,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括围绕产业痛点做技术产品和创业论证；AI项目需展示自有数据/算法贡献、原型可用性、用户验证、成本与落地路径，而不只是商业计划书。",
     "website": "https://www.tiaozhanbei.net/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -269,7 +269,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入创新创业与科创，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括证明项目创新性、教育价值、团队贡献、商业/社会价值和发展前景。",
     "website": "https://cy.ncss.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -360,7 +360,7 @@ window.COMPETITIONS = [
       "编程算法",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法、作品创作。",
+    "summary": "比赛内容包括图论、动态规划、数据结构、计算几何、数论、字符串、搜索、组合数学和实现题，强调快速读题、协作分工、调试和现场策略。",
     "website": "https://icpc.pku.edu.cn/tzgg/a8fd24b90c57484dafc921f17deee908.htm",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -449,7 +449,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "赛事设有多个赛项，常见内容包括传感器数据处理、目标检测/分割、视觉或惯性定位、航迹规划、避障、控制器调参、Docker/ROS封装和自动评测。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -596,7 +596,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入建筑、工程与环境，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括节能减排装置或软件、能源数据分析、预测与优化控制、碳核算/调研、数字孪生、设备故障预测。",
     "website": "https://www.jienengjianpai.org/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -686,7 +686,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入计算机、软件与人工智能，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括企业需求分析、后端/前端/数据库、模型或智能体能力、国产平台适配、系统部署、性能与正确率评测、文档与演示。",
     "website": "https://www.cnsoftbei.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -775,7 +775,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括多模态教学Agent、自动化安全工具编排、职业规划Agent、工业故障树、船舶故障RAG、文档理解、跨课程智能体、反欺诈、多智能体内容生成和强化学习。",
     "website": "https://www.fwwb.org.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -861,7 +861,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "围绕生涯目标、学习行动与求职能力完成职业发展报告和现场展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -891,7 +891,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过经典诵读、语言讲解、汉字书写或篆刻作品展示中华优秀文化，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -921,7 +921,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录A+类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "按当届设置参加田径、球类或其他专项运动比赛，考验专项技术、体能和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -951,7 +951,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括机理建模、统计分析、时间序列、机器学习、评价决策、运筹优化、仿真与敏感性分析。",
     "website": "https://www.mcm.edu.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -1040,7 +1040,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入建筑、工程与环境，常见参与形式包括作品创作。",
+    "summary": "围绕年度主题设计机械装置，完成结构设计、工程图、样机制作、测试改进和现场展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -1070,7 +1070,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "根据品牌或公益命题完成平面、视频、文案、动画或互动广告创意作品，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -1100,7 +1100,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括摄像头/雷达感知、目标检测或分割、赛道识别、模型压缩与边缘推理、路径规划、控制算法、嵌入式开发、整车调试。",
     "website": "https://www.caa.org.cn/Content/260.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -1191,7 +1191,7 @@ window.COMPETITIONS = [
       "工程实践",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入商业、管理与财经，常见参与形式包括创新创业、工程实践、商业模拟。",
+    "summary": "比赛内容包括用户/商品数据分析、销售预测、推荐、智能客服、AIGC营销、直播运营、跨境电商、商业计划、真实运营数据与路演。",
     "website": "https://www.3chuang.net/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -1283,7 +1283,7 @@ window.COMPETITIONS = [
       "作品创作",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入商业、管理与财经，常见参与形式包括作品创作、商业模拟。",
+    "summary": "比赛内容包括选址、车辆路径、库存与补货、仓储布局、需求预测、供应链韧性、仿真、数字化平台和方案经济性。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -1345,7 +1345,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括综合竞赛。",
+    "summary": "赛事设有多个赛项，常见内容包括密码与身份认证、软件/系统安全、入侵检测、流量分析、恶意样本检测、数据安全、AI模型攻防与安全应用原型，强调防御性和原创性。",
     "website": "https://ccb.itsec.gov.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -1474,7 +1474,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践、作品创作。",
+    "summary": "赛事设有多个赛项，常见内容包括嵌入式AI应用、传感器与边缘推理、模型压缩/量化、软硬件集成、实时性与功耗测试、系统演示和技术报告。",
     "website": "https://www.nuedc-training.com.cn/index/news/details/new_id/343",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -1599,7 +1599,7 @@ window.COMPETITIONS = [
       "建模分析",
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入商业、管理与财经，常见参与形式包括建模分析、调研实践。",
+    "summary": "比赛内容包括问卷设计、抽样、访谈、统计检验、用户分群、文本分析、满意度/购买意愿建模、市场预测、可视化和决策建议。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -1659,7 +1659,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -1694,7 +1694,7 @@ window.COMPETITIONS = [
       "工程实践",
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法、工程实践、建模分析。",
+    "summary": "赛事设有多个赛项，常见内容包括基础语法、模拟、排序、查找、数据结构、图、动态规划和数学，题目按基础/进阶等梯级设置。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -1925,7 +1925,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括AIGC海报/动画/音视频、虚拟IP、交互与游戏艺术、生成工作流、模型/工具说明、技术与艺术融合。",
     "website": "https://www.ncda.org.cn/news/2025/1209/708.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2012,7 +2012,7 @@ window.COMPETITIONS = [
       "创新创业",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入商业、管理与财经，常见参与形式包括创新创业、商业模拟。",
+    "summary": "赛事包含国际贸易、创新创业、会计案例、品牌策划、商务谈判与物流供应链等商业任务，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -2043,7 +2043,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括数字/模拟IC、FPGA、处理器、EDA、封装测试、嵌入式系统、NPU推理、模型迁移和硬件性能优化，提交可复现代码、模型、仿真/实测结果。",
     "website": "https://univ.ciciec.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2134,7 +2134,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括大模型/Agent应用、算法调优、反欺诈等数据任务、AI视觉、无人机/轮式机器人、多模态巡检、智能制造仿真、机器人创意设计。",
     "website": "https://www.raicom.com.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2223,7 +2223,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过听读理解、语言知识、写作、翻译或口语任务，综合考查外语理解与表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -2253,7 +2253,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -2284,7 +2284,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括设计并制作机器人，完成现场规定动作或自主任务；典型任务包括目标识别与抓取、语音/视觉交互、避障导航、地图构建、巡检播报、竞速以及创意作品答辩。",
     "website": "https://www.robotcontest.cn/home/homepage",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2374,7 +2374,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括基于指定芯片/开发平台完成真实嵌入式系统，提交硬件、驱动、应用软件、说明文档和演示。",
     "website": "https://www.socchina.net/home",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2460,7 +2460,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括围绕命题或自选应用完成可运行软件/系统、数据分析或AI作品，提交作品包、文档、演示视频并现场答辩。",
     "website": "https://jsjds.blcu.edu.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2551,7 +2551,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入建筑、工程与环境，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括依据真实建筑工程完成BIM建模、协同设计、施工组织、造价或碳排分析，提交模型、图纸、计算成果、汇报材料并答辩。",
     "website": "https://gxbsxs.glodonedu.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2643,7 +2643,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括从用户痛点出发做原创产品或服务，提交项目计划书/PPT、产品原型、演示视频和知识产权材料，经历路演答辩。",
     "website": "https://g-ican.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2656,10 +2656,6 @@ window.COMPETITIONS = [
       "currentEdition": "2026年第二十届iCAN大学生创新创业大赛创新赛道"
     },
     "registrationMonths": [
-      4,
-      5,
-      6,
-      7,
       8
     ],
     "registrationTimingKind": "verified_2026",
@@ -2745,7 +2741,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括综合竞赛。",
+    "summary": "基于企业涉税数据和案例识别税收风险，完成政策判断、税额计算、风险分析与处理建议，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -2777,7 +2773,7 @@ window.COMPETITIONS = [
       "编程算法",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法、作品创作。",
+    "summary": "比赛内容包括在线判题算法题；重点考查数据结构、数学、图论、字符串、动态规划、贪心和实现能力。",
     "website": "https://star.baidu.com/#/program-design-match2026?tab=1",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2790,7 +2786,6 @@ window.COMPETITIONS = [
       "currentEdition": "2026年第二十二届百度之星程序设计大赛"
     },
     "registrationMonths": [
-      7,
       8,
       9
     ],
@@ -2878,7 +2873,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括综合竞赛。",
+    "summary": "通过企业业务案例完成会计核算、财务分析、资金与经营决策，展示业财税综合应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -2908,7 +2903,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括工程实践赛包含5G/5G-A、通信原理、网络规划优化的理论题、仿真与实操。",
     "website": "https://www.ksup.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -2997,7 +2992,7 @@ window.COMPETITIONS = [
       "编程算法",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法、作品创作。",
+    "summary": "比赛内容包括在线判题算法题，覆盖基础编程、数据结构、搜索、图论、动态规划、数学和综合实现，限时完成并按通过测试点计分。",
     "website": "https://www.matiji.net/exam/contest/topic2026?id=68",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3080,7 +3075,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括提供企业/科研数据与指标，参赛队完成数据清洗、训练/微调、验证和榜单提交，晋级后提交代码、方案并答辩。",
     "website": "https://www.aicomp.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3092,7 +3087,11 @@ window.COMPETITIONS = [
       "homepageCarousel": true,
       "currentEdition": "2026全球校园人工智能算法精英大赛"
     },
-    "registrationMonths": [],
+    "registrationMonths": [
+      8,
+      9,
+      10
+    ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "省赛赛道最晚报名截至2026年10月15日20:00，部分赛题截止更早，请以所选赛题通知为准。",
     "evidenceLinks": [
@@ -3178,7 +3177,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括自拟现实问题，获取可信数据，建立统计/机器学习模型，完成稳健性和解释分析，提交不超过约1.6万字论文、数据与可复现材料，晋级后答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -3238,7 +3237,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "通过舞蹈、戏剧、音乐、美术或语言类作品进行创作与展演，展示专业技巧和艺术表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -3268,7 +3267,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括机器人足球对抗、救援搜寻、家庭服务、人形/小型组、2D/3D仿真、SLAM地图构建、多机器人协作或高级视觉识别，现场按任务完成度、时间和对抗成绩计分。",
     "website": "https://rcccaa.drct-caa.org.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3353,7 +3352,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括算法/创新作品评审、机器人现场任务、视觉识别、自动驾驶、无人机或具身智能对抗，通常要求系统演示、技术文档、视频和答辩。",
     "website": "https://www.caairobot.com/post/CRAIC2026-NOTIFICATION-NO1/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3443,7 +3442,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "参赛者围绕命题完成外语演讲和现场问答，展示语言准确性、逻辑组织与跨文化表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -3473,7 +3472,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入计算机、软件与人工智能，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括CTF覆盖Web、逆向、Pwn、密码、Misc和移动安全；数据安全赛做特征工程、模型训练和预测提交。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -3537,7 +3536,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入建筑、工程与环境，常见参与形式包括作品创作。",
+    "summary": "从用户需求出发完成产品概念、结构与造型设计，并通过模型、渲染图或样机说明方案，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -3567,7 +3566,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括PLC/控制算法现场上机、工业网络配置、运动控制、数字孪生产线设计、工业数据采集与可视化，或提交协作机器人/嵌入式/硬件方案并接受工程答辩。",
     "website": "https://www.siemenscup-cimc.org.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3658,7 +3657,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括完成3D建模、可视化、数字人、AIGC视频/交互作品或可运行AI智能体/应用，提交源文件、演示视频、设计说明并答辩。",
     "website": "https://www.3ddl.net/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3671,9 +3670,7 @@ window.COMPETITIONS = [
       "currentEdition": "2026 AMD杯AI+3D创新应用专项赛"
     },
     "registrationMonths": [
-      4,
-      5,
-      6
+      8
     ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "当前核实开放的是赛事旗下AMD杯AI+3D专项赛，报名及作品提交截至2026年8月23日。",
@@ -3756,7 +3753,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括围绕主题制作视觉设计、动画、短片、交互作品、数字人或AIGC内容，提交成品、展板/说明、源文件或视频。",
     "website": "https://www.cdec.org.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3853,7 +3850,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括实践赛进行网络、云、基础软件或昇腾AI知识与8小时实操；昇腾方向使用华为云/开发板完成模型与算子任务。",
     "website": "https://www.huawei.com/minisite/ict-competition-2025-2026-global/cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -3938,7 +3935,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "在模拟企业环境中完成市场、生产、财务、供应链等经营决策，并根据结果调整策略，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -3970,7 +3967,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括根据企业命题完成物联网产品/系统，包含感知、连接、云/边缘计算、AI决策和执行闭环，提交方案、源码/原型、演示视频并参加答辩或现场测试。",
     "website": "https://iot.sjtu.edu.cn/show.aspx?flag=2&info_id=6061&info_lb=36",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -4061,7 +4058,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括制作AIGC视听作品、VR/游戏、数据可视化、移动/网页应用、智能硬件或科幻作品，提交作品说明、PPT、演示视频、可执行文件/源文件并答辩。",
     "website": "https://www.cmit.cn/html/liucheng/show-277-45691-1.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -4152,7 +4149,7 @@ window.COMPETITIONS = [
       "建模分析",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入商业、管理与财经，常见参与形式包括创新创业、工程实践、建模分析。",
+    "summary": "比赛内容包括技术创新赛以实物/系统、项目展示和答辩为主；AI智能体赛围绕经营、工程、医疗、农业、文创等场景开发智能体。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -4165,7 +4162,8 @@ window.COMPETITIONS = [
       "currentEdition": "2026俄罗斯技术创新国际赛（叶卡捷琳堡赛区）"
     },
     "registrationMonths": [
-      5
+      8,
+      9
     ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "延期至2026年9月18日24:00；还需提交盖章材料并接受组委会资格确认，不属于普通个人在线报名。",
@@ -4222,7 +4220,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括使用OpenHarmony/鸿蒙生态开发跨设备智能应用，完成端云协同、设备发现与控制、UI/服务、AI推理或智能体集成，提交源码、文档、演示视频并答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -4286,7 +4284,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "针对真实问题提出产品或服务方案，完成用户验证、商业模式、项目计划、成果展示和路演，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4316,7 +4314,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录A类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "针对真实问题提出产品或服务方案，完成用户验证、商业模式、项目计划、成果展示和路演，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4346,7 +4344,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括从数学建模、数据洞察、运筹优化、跨学科政策问题中选题，完成建模、计算、验证和英文报告。",
     "website": "https://www.contest.comap.com/undergraduate/contests/mcm/instructions.php",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -4360,11 +4358,12 @@ window.COMPETITIONS = [
       "currentEdition": "2027 MCM/ICM"
     },
     "registrationMonths": [
-      1,
+      8,
       9,
       10,
       11,
-      12
+      12,
+      1
     ],
     "registrationTimingKind": "historical",
     "registrationText": "2027届注册已开放，截止2027年1月28日15:00（美国东部时间）；由指导教师注册，同校3名本科生组队。",
@@ -4446,7 +4445,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括二维/三维动画、漫画、数字影像、交互媒体作品及创作说明；通常以作品征集、学校推荐和终评展示为主。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -4515,7 +4514,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过听读理解、语言知识、写作、翻译或口语任务，综合考查外语理解与表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4545,7 +4544,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "包含日语翻译、演讲、写作、听力与才艺展示等赛项，综合考查日语理解和表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4575,7 +4574,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "针对供应链案例完成需求预测、库存、仓储、运输或回收网络方案，并分析成本与可行性，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4605,7 +4604,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括产品原型、商业计划书、市场验证、项目路演与答辩；AI赛道强调智能体落地和商业闭环。",
     "website": "https://ggfw.hrss.gd.gov.cn/employment/internet/entrepreneur/portal/#/cyds2026/home",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -4694,7 +4693,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括电子系统、通信与信号处理、嵌入式软硬件、智能控制实物作品；通常采用校赛/分区选拔后全国作品展示答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -4755,7 +4754,7 @@ window.COMPETITIONS = [
       "建模分析",
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括建模分析、调研实践。",
+    "summary": "选择社会或行业问题开展调研，完成问卷访谈、数据分析、问题诊断、调研报告和对策建议，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4785,7 +4784,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括网络安全攻防、社会调研、电商直播、乡村治理、节能与工业设计等年度变化项目。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -4852,7 +4851,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "学生以音乐、舞蹈、戏剧、美术或设计等作品参加展演与评选，重点呈现创作水平与舞台表现，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4882,7 +4881,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "完成漫画、插画、动画、游戏概念或数字影像作品，重点展示视觉叙事、造型和原创性，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -4912,7 +4911,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括成果申报书、技术与知识产权证明、市场与转化方案、现场路演答辩。",
     "website": "https://www.gurfcc.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -4999,7 +4998,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "选择社会或行业问题开展调研，完成问卷访谈、数据分析、问题诊断、调研报告和对策建议，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5030,7 +5029,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括知识与技能资格赛、原理图/PCB、51/STM32/FPGA代码、原创智能硬件设计及答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5094,7 +5093,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入体育竞技与身心健康，常见参与形式包括综合竞赛。",
+    "summary": "围绕心理健康知识、自我调适与同伴支持完成知识答题、科普作品或主题实践任务，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5126,7 +5125,7 @@ window.COMPETITIONS = [
       "作品创作",
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括作品创作、调研实践。",
+    "summary": "比赛内容包括围绕“智慧、安全、环保”等主题开展科学实验、创意作品、科普表达或智能装置设计。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5194,7 +5193,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5224,7 +5223,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括综合竞赛。",
+    "summary": "在模拟企业环境中完成市场、生产、财务、供应链等经营决策，并根据结果调整策略，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5254,7 +5253,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "在企业经营模拟中完成市场、生产、研发、投融资和财务决策，通过多期运营提升企业价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5284,7 +5283,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5314,7 +5313,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "从用户需求出发完成产品概念、结构与造型设计，并通过模型、渲染图或样机说明方案，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5344,7 +5343,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5374,7 +5373,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5405,7 +5404,7 @@ window.COMPETITIONS = [
       "工程实践",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括工程实践、商业模拟。",
+    "summary": "比赛内容包括移动电商应用、运营方案、商业计划和展示；通常采用知识/方案、移动商务应用设计和答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5460,7 +5459,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入电子信息、机器人与智能制造，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括开放命题或企业命题的嵌入式/IoT/AI机器人系统，完成软硬件、测试、演示和答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5526,7 +5525,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括综合竞赛。",
+    "summary": "在仿真国际贸易环境中完成询报价、商务谈判、合同、报关、物流与结算等外贸业务，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5558,7 +5557,7 @@ window.COMPETITIONS = [
       "创新创业",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括创新创业、商业模拟。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5588,7 +5587,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕旅游服务或会展项目完成资源分析、产品与活动策划、现场服务演示和方案说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5618,7 +5617,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括移动互联网创新产品、APP/小程序、商业计划、PPT、演示视频和答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5674,7 +5673,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入建筑、工程与环境，常见参与形式包括作品创作。",
+    "summary": "针对指定场地完成园林或人居环境方案，提交场地分析、规划图、效果表达和设计说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5704,7 +5703,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括作品创作。",
+    "summary": "围绕当届主题完成文章、微视频、摄影、公益广告或实践成果，重点展示内容立意与传播效果，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5734,7 +5733,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "基于市场与企业数据完成金融分析、投资或经营决策，重点考查风险判断和结果说明能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5764,7 +5763,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "按赛项完成导游讲解、酒店或餐饮服务、旅游策划等现场任务，展示服务规范与应变能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5794,7 +5793,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "围绕当届主题完成文章、微视频、摄影、公益广告或实践成果，重点展示内容立意与传播效果，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5824,7 +5823,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "团队深入乡村或社区开展调研与志愿服务，通过报告、影像或项目成果展示实践过程，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5855,7 +5854,7 @@ window.COMPETITIONS = [
       "作品创作",
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括作品创作、调研实践。",
+    "summary": "选择科学主题完成文章、图文、动画、短视频或展教作品，将专业知识转化为准确易懂的表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5885,7 +5884,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括技术与产品、知识产权、商业模式、市场、团队和财务路演；人工智能属于新一代信息技术方向。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -5948,7 +5947,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "围绕当届主题完成文章、微视频、摄影、公益广告或实践成果，重点展示内容立意与传播效果，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -5978,7 +5977,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "学生以音乐、舞蹈、戏剧、美术或设计等作品参加展演与评选，重点呈现创作水平与舞台表现，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6008,7 +6007,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括调研实践。",
+    "summary": "通过宪法知识学习、主题演讲或法治实践作品，考查法治素养、案例理解与现场表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6038,7 +6037,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "参赛者围绕命题完成外语演讲和现场问答，展示语言准确性、逻辑组织与跨文化表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6068,7 +6067,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "完成漫画、插画、动画、游戏概念或数字影像作品，重点展示视觉叙事、造型和原创性，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6099,7 +6098,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括围绕全球统一主题，在约48小时内完成可玩的游戏原型并上传，重点考查相关知识的实际应用与问题解决能力。",
     "website": "https://globalgamejam.org/2026",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -6186,7 +6185,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括调研实践。",
+    "summary": "围绕当届主题完成文章、微视频、摄影、公益广告或实践成果，重点展示内容立意与传播效果，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6216,7 +6215,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入计算机、软件与人工智能，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括算法编程、软件测试开发、网络安全运维；往届还含智能无人车应用。",
     "website": "https://www.ccf.org.cn/Activities/Event_calendar/zw/2026-07-08/913383.shtml",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -6304,7 +6303,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入计算机、软件与人工智能，常见参与形式包括商业模拟。",
+    "summary": "比赛内容包括Transformer/生成式推荐广告模型、排序效果、量化与推理速度优化、技术报告。",
     "website": "https://cti.baidu.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -6387,7 +6386,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括财经数据获取与治理、CSMAR等数据库应用、Python/Excel分析、业务洞察与可视化报告。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -6454,7 +6453,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "针对真实或模拟组织完成市场调研、目标人群分析、品牌或公关策略、传播方案和提案展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6484,7 +6483,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括商业模拟。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6514,7 +6513,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "团队编排并完成啦啦操套路，通过动作难度、完成质量、同步性和现场表现评比，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6544,7 +6543,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6576,7 +6575,7 @@ window.COMPETITIONS = [
       "工程实践",
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入建筑、工程与环境，常见参与形式包括工程实践、建模分析。",
+    "summary": "根据建筑或工程资料建立BIM模型，完成构件建模、协同检查、工程分析与成果展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6606,7 +6605,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入建筑、工程与环境，常见参与形式包括工程实践。",
+    "summary": "根据建筑或工程资料建立BIM模型，完成构件建模、协同检查、工程分析与成果展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6638,7 +6637,7 @@ window.COMPETITIONS = [
       "建模分析",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入创新创业与科创，常见参与形式包括建模分析、商业模拟。",
+    "summary": "比赛内容包括科技金融、绿色金融、普惠金融、养老金融等方向的创新方案、产品原型、数据模型和路演。",
     "website": "https://www.gonghangbei.com/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -6651,7 +6650,11 @@ window.COMPETITIONS = [
       "currentEdition": "2026年“工行杯”全国大学生金融科技创新大赛"
     },
     "registrationMonths": [
-      5
+      5,
+      6,
+      7,
+      8,
+      9
     ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "官网将2026年5月至9月列为报名及作品提交阶段，具体到日的截止时间尚未公布。",
@@ -6714,7 +6717,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "在模拟企业环境中完成市场、生产、财务、供应链等经营决策，并根据结果调整策略，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6744,7 +6747,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者创作并提交原创歌曲或器乐作品，通过曲谱、音频或视频呈现旋律、编配和主题表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6774,7 +6777,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "学生以音乐、舞蹈、戏剧、美术或设计等作品参加展演与评选，重点呈现创作水平与舞台表现，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6804,7 +6807,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "通过舞蹈、戏剧、音乐、美术或语言类作品进行创作与展演，展示专业技巧和艺术表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6834,7 +6837,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6864,7 +6867,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "参赛者围绕命题完成外语演讲和现场问答，展示语言准确性、逻辑组织与跨文化表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6894,7 +6897,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "基于市场与企业数据完成金融分析、投资或经营决策，重点考查风险判断和结果说明能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6924,7 +6927,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "参赛者围绕命题完成外语演讲和现场问答，展示语言准确性、逻辑组织与跨文化表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -6954,7 +6957,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括测试需求分析、用例设计、Web/API/代码测试、自动化测试、缺陷定位与测试报告。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -7017,7 +7020,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B+类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "通过微积分、线性代数、概率统计等数学题目，考查基础知识、逻辑推导和综合解题能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7047,7 +7050,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "针对产品或品牌需求完成包装视觉、结构与应用方案，提交成品效果及设计说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7077,7 +7080,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7107,7 +7110,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括C/C++/Java/Python程序设计，以及软件、AI、物联网等实践创新作品。",
     "website": "https://www.boxuegu.com/match/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -7119,7 +7122,13 @@ window.COMPETITIONS = [
       "homepageCarousel": true,
       "currentEdition": "2026传智杯全国IT技能大赛"
     },
-    "registrationMonths": [],
+    "registrationMonths": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "官方日程将2026年7月至11月列为报名期，未公布具体到日的截止时间，请以赛道页实时状态为准。",
     "evidenceLinks": [
@@ -7193,7 +7202,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7223,7 +7232,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括数据法规与伦理、采集、转换、清洗、统计分析、可视化和业务报告，常用Excel/Python。",
     "website": "https://www.zlbbda.com.cn/contest",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -7304,7 +7313,7 @@ window.COMPETITIONS = [
       "创新创业",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入创新创业与科创，常见参与形式包括创新创业、商业模拟。",
+    "summary": "比赛内容包括供应链经营模拟、库存与物流决策、产业链协同及创业方案，重点考查相关知识的实际应用与问题解决能力。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -7368,7 +7377,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括CTF Web/Pwn/Reverse/Crypto/Misc、漏洞挖掘、攻防和网络安全综合任务。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -7431,7 +7440,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "针对真实问题提出产品或服务方案，完成用户验证、商业模式、项目计划、成果展示和路演，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7461,7 +7470,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "根据品牌或公益命题完成平面、视频、文案、动画或互动广告创意作品，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7491,7 +7500,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括网络基础、漏洞分析、攻防对抗和安全知识；通常采用校赛/区域赛和现场攻防。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -7551,7 +7560,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入社会实践、职业发展与公共素养，常见参与形式包括综合竞赛。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7582,7 +7591,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入体育竞技与身心健康，常见参与形式包括综合竞赛。",
+    "summary": "围绕心理健康知识、自我调适与同伴支持完成知识答题、科普作品或主题实践任务，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7612,7 +7621,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "基于企业涉税数据和案例识别税收风险，完成政策判断、税额计算、风险分析与处理建议，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7644,7 +7653,7 @@ window.COMPETITIONS = [
       "作品创作",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括作品创作、商业模拟。",
+    "summary": "比赛内容包括物流中心规划、库存运输/运营仿真、数智营销与经营决策，重点考查相关知识的实际应用与问题解决能力。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -7707,7 +7716,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "针对真实或模拟组织完成市场调研、目标人群分析、品牌或公关策略、传播方案和提案展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7737,7 +7746,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "围绕居住或公共空间完成功能规划、平立面图、材料搭配、效果表达和设计说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7767,7 +7776,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "在模拟企业环境中完成市场、生产、财务、供应链等经营决策，并根据结果调整策略，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7797,7 +7806,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "根据企业财务与业务资料执行审计分析，识别错报和风险，完成审计程序、底稿与报告，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7828,7 +7837,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕粤港澳海洋文旅资源开展市场分析，完成旅游产品、线路或文创项目策划与展示，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7858,7 +7867,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括综合竞赛。",
+    "summary": "通过财经知识、经济现象理解和案例分析任务，考查基础财经素养、数据判断与理性决策能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7889,7 +7898,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入建筑、工程与环境，常见参与形式包括作品创作。",
+    "summary": "针对指定场地完成园林或人居环境方案，提交场地分析、规划图、效果表达和设计说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7919,7 +7928,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕招聘、培训、绩效、薪酬和员工关系等企业情境，完成人力资源方案、模拟决策或现场答辩，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -7949,7 +7958,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括在线完成约10道数据结构与算法编程题；通常采用线上个人算法答题。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8009,7 +8018,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "通过企业业务案例完成会计核算、财务分析、资金与经营决策，展示业财税综合应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8039,7 +8048,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "根据命题或材料完成中外文写作，重点考查内容立意、结构逻辑、语言准确性和文体表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8069,7 +8078,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过词义辨析、语境选择、拼写及词汇运用等题型，考查外语词汇量与实际应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8099,7 +8108,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过词义辨析、语境选择、拼写及词汇运用等题型，考查外语词汇量与实际应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8129,7 +8138,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "针对真实问题提出产品或服务方案，完成用户验证、商业模式、项目计划、成果展示和路演，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8159,7 +8168,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括开放式真实问题建模、数据采集/分析、算法实现、长论文和现场答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8219,7 +8228,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过词义辨析、语境选择、拼写及词汇运用等题型，考查外语词汇量与实际应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8249,7 +8258,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括程序设计、算法求解，以及机电自动化/控制相关知识赛道，重点考查相关知识的实际应用与问题解决能力。",
     "website": "https://m.saikr.com/algorithm2026",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -8328,7 +8337,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过词义辨析、语境选择、拼写及词汇运用等题型，考查外语词汇量与实际应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8358,7 +8367,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8388,7 +8397,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8419,7 +8428,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "比赛内容包括在指定平台完成经营、供应链和数字化运营决策，并提交分析/答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8481,7 +8490,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "比赛内容包括商业经营仿真、数据分析、资源配置、竞争决策、报告与答辩，重点考查相关知识的实际应用与问题解决能力。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8543,7 +8552,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "按当届设置参加田径、球类或其他专项运动比赛，考验专项技术、体能和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8573,7 +8582,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "编程算法"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括编程算法。",
+    "summary": "比赛内容包括程序设计、人工智能模型/应用、大数据分析、Office应用和数字媒体作品。",
     "website": "https://www.ncccu.org.cn/index/index/index",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -8670,7 +8679,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入创新创业与科创，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括教育数字化实践、AI教育应用、智慧校园、软件作品/案例和现场答辩。",
     "website": "https://eic.caet.org.cn/",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -8749,7 +8758,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括智能体架构、知识库/工具调用、多模态交互、业务或教育场景集成与部署。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8820,7 +8829,7 @@ window.COMPETITIONS = [
       "作品创作",
       "调研实践"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入计算机、软件与人工智能，常见参与形式包括工程实践、作品创作、调研实践。",
+    "summary": "比赛内容包括乡村治理、农业、文旅、教育、健康等场景的AI系统、数据平台、智能硬件和落地服务。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -8884,7 +8893,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "通过原创音乐作品或独唱、合唱舞台表演，展示音准节奏、作品理解、编排和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8914,7 +8923,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "通过自备主持、命题播报、即兴评述或现场串联，考查语言面貌、应变能力与舞台表现，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8944,7 +8953,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者通过舞蹈、戏剧、音乐或美术作品进行创作与展演，重点展示专业技巧和艺术表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -8974,7 +8983,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者通过舞蹈、戏剧、音乐或美术作品进行创作与展演，重点展示专业技巧和艺术表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9004,7 +9013,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录B类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "参赛者进行公路或场地自行车项目比拼，考验骑行技术、体能和团队协作，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9034,7 +9043,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "按当届设置参加田径、球类或其他专项运动比赛，考验专项技术、体能和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9064,7 +9073,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括数字科技创业构想、商业计划、MVP、训练营和投资/产业路演。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -9132,7 +9141,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入建筑、工程与环境，常见参与形式包括作品创作。",
+    "summary": "针对指定场地完成园林或人居环境方案，提交场地分析、规划图、效果表达和设计说明，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9164,7 +9173,7 @@ window.COMPETITIONS = [
       "作品创作",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括作品创作、商业模拟。",
+    "summary": "针对供应链案例完成需求预测、库存、仓储、运输或回收网络方案，并分析成本与可行性，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9194,7 +9203,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "工程实践"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入计算机、软件与人工智能，常见参与形式包括工程实践。",
+    "summary": "比赛内容包括创意设计、创新实践、企业团队创业等组别的软件/硬件应用系统，提交文档、视频和现场答辩。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -9258,7 +9267,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括给定真实数据和业务问题，完成清洗、特征、统计/ML/大模型方法、预测结果、代码和论文。",
     "website": "https://www.tipdm.org/dssj14/2527.jhtml",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -9347,7 +9356,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括综合竞赛。",
+    "summary": "比赛内容包括H5、短视频、新媒体写作、融合出版和运营策划等作品；通常先征集作品，之后进行评审和展示。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -9409,7 +9418,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括动画、漫画/绘本、数字艺术、视频游戏等学生原创作品征集与评审。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -9471,7 +9480,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括游戏创意、可玩原型、程序、美术、策划和路演；通常采用创意提案、原型开发、导师辅导和终审。",
     "website": null,
     "websiteStatus": "unverified",
     "websiteCheckedAt": null,
@@ -9538,7 +9547,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "参赛者提交视觉、产品、空间或数字媒体等原创设计作品，并说明创意概念与应用价值，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9568,7 +9577,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "根据命题或材料完成中外文写作，重点考查内容立意、结构逻辑、语言准确性和文体表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9598,7 +9607,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9628,7 +9637,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "创新创业"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入创新创业与科创，常见参与形式包括创新创业。",
+    "summary": "比赛内容包括项目计划书、产品/服务原型、市场与财务、知识产权、现场路演和答辩。",
     "website": "https://rsj.gz.gov.cn/ywzt/jycy/gxbys/gaqnjycy/content/post_10775261.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -9716,7 +9725,7 @@ window.COMPETITIONS = [
       "工程实践",
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括工程实践、语言表达。",
+    "summary": "通过听读理解、语言知识、写作、翻译或口语任务，综合考查外语理解与表达能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9746,7 +9755,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "根据品牌或公益命题完成平面、视频、文案、动画或互动广告创意作品，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9777,7 +9786,7 @@ window.COMPETITIONS = [
       "工程实践",
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括工程实践、作品创作。",
+    "summary": "比赛内容包括在限定主题和时间内完成可玩的原创游戏，提交构建包、说明、视频并展示。",
     "website": "https://cybersousa.com.cn/index/web/zxxq.html?id=194",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -9863,7 +9872,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "参赛者按赛事组别完成公路长跑，重点考验耐力、配速、补给和赛程安全管理，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -9894,7 +9903,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入计算机、软件与人工智能，常见参与形式包括作品创作。",
+    "summary": "比赛内容包括软件系统、硬件装置、算法设计、AI/数字应用创新方案，提交说明书、视频、原创承诺并现场展示答辩。",
     "website": "https://fzs.newoe.cn/article/detail/826",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -9982,7 +9991,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "作品创作"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入设计、艺术与数字媒体，常见参与形式包括作品创作。",
+    "summary": "通过原创音乐作品或独唱、合唱舞台表演，展示音准节奏、作品理解、编排和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10012,7 +10021,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10043,7 +10052,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕招聘、培训、绩效、薪酬和员工关系等企业情境，完成人力资源方案、模拟决策或现场答辩，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10074,7 +10083,7 @@ window.COMPETITIONS = [
       "工程实践",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括工程实践、商业模拟。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10104,7 +10113,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "通过企业业务案例完成会计核算、财务分析、资金与经营决策，展示业财税综合应用能力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10134,7 +10143,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括商业模拟。",
+    "summary": "围绕店铺或贸易业务完成选品、定价、营销、客户服务、运营数据分析和经营决策，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10164,7 +10173,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "综合竞赛"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括综合竞赛。",
+    "summary": "基于企业涉税数据和案例识别税收风险，完成政策判断、税额计算、风险分析与处理建议，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10197,7 +10206,7 @@ window.COMPETITIONS = [
       "作品创作",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入商业、管理与财经，常见参与形式包括作品创作、商业模拟。",
+    "summary": "针对供应链案例完成需求预测、库存、仓储、运输或回收网络方案，并分析成本与可行性，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10229,7 +10238,7 @@ window.COMPETITIONS = [
       "创新创业",
       "商业模拟"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入创新创业与科创，常见参与形式包括创新创业、商业模拟。",
+    "summary": "比赛内容包括技术产品、知识产权、产业价值、商业计划、路演答辩和成果转化对接。",
     "website": "https://www.cnmaker.org.cn/ds/detail/d3c48d9d725e4926b8631421917bf6fa.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -10242,7 +10251,7 @@ window.COMPETITIONS = [
       "currentEdition": "第十一届“创客中国”元宇宙中小企业创新创业大赛"
     },
     "registrationMonths": [
-      7
+      8
     ],
     "registrationTimingKind": "verified_2026",
     "registrationText": "当前核实开放的是“创客中国”官网内的元宇宙专题赛；官网仍显示立即参赛，但未公布精确报名截止时点。",
@@ -10305,7 +10314,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10336,7 +10345,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10366,7 +10375,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "围绕中外文文本完成翻译，重点考查语义理解、表达准确性、术语处理和文体适配，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10396,7 +10405,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "根据命题或材料完成中外文写作，重点考查内容立意、结构逻辑、语言准确性和文体表达，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10426,7 +10435,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "语言表达"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入外语、人文与文化，常见参与形式包括语言表达。",
+    "summary": "通过普通话朗读、命题说话或语音知识任务，考查语音标准度、表达流畅度和语言组织，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10456,7 +10465,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "建模分析"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入数学、统计与数据科学，常见参与形式包括建模分析。",
+    "summary": "比赛内容包括CDA数据统计分析赛道（清洗、可视化、时间序列预测）和知网综合评价赛道，提交论文。",
     "website": "https://www.cdaglobal.com/article/551.html",
     "websiteStatus": "verified",
     "websiteCheckedAt": "2026-08-01",
@@ -10527,7 +10536,7 @@ window.COMPETITIONS = [
       "作品创作",
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括作品创作、体育竞技。",
+    "summary": "参赛组合按组别完成体育舞蹈套路，展示基本步法、节奏、技术规范与现场表现力，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10557,7 +10566,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "参赛者完成街舞作品编排与现场表演，展示音乐理解、动作技术、创意和团队配合，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10587,7 +10596,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "参赛者按赛事组别完成公路长跑，重点考验耐力、配速、补给和赛程安全管理，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,
@@ -10617,7 +10626,7 @@ window.COMPETITIONS = [
     "typeTags": [
       "体育竞技"
     ],
-    "summary": "学校2026竞赛目录C类项目，主要归入体育竞技与身心健康，常见参与形式包括体育竞技。",
+    "summary": "参赛者按赛事组别完成公路长跑，重点考验耐力、配速、补给和赛程安全管理，具体赛制和题目以当届章程为准。",
     "website": null,
     "websiteStatus": "missing",
     "websiteCheckedAt": null,

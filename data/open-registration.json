@@ -10,6 +10,7 @@
       "officialUrl": "https://g-ican.com/",
       "currentEdition": "2026年第二十届iCAN大学生创新创业大赛创新赛道",
       "note": "创新赛道报名截至2026年8月31日；同站其他赛道截止时间不同，请按所选赛道确认。",
+      "registrationMonths": [8],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": ["https://www.g-ican.com/competition/details?id=79"]
@@ -21,6 +22,7 @@
       "officialUrl": "https://star.baidu.com/#/program-design-match2026?tab=1",
       "currentEdition": "2026年第二十二届百度之星程序设计大赛",
       "note": "两场初赛可分别报名：第一场截至8月23日开赛前2小时，第二场截至9月19日开赛前2小时。",
+      "registrationMonths": [8, 9],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": [
@@ -36,6 +38,7 @@
       "officialUrl": "https://www.aicomp.cn/",
       "currentEdition": "2026全球校园人工智能算法精英大赛",
       "note": "省赛赛道最晚报名截至2026年10月15日20:00，部分赛题截止更早，请以所选赛题通知为准。",
+      "registrationMonths": [8, 9, 10],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": ["https://www.aicomp.cn/notice/notice-1/3618.html", "https://reg.aicomp.cn/"]
@@ -47,6 +50,7 @@
       "officialUrl": "https://www.3ddl.net/",
       "currentEdition": "2026 AMD杯AI+3D创新应用专项赛",
       "note": "当前核实开放的是赛事旗下AMD杯AI+3D专项赛，报名及作品提交截至2026年8月23日。",
+      "registrationMonths": [8],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": ["https://3ddl-oss.oss-cn-beijing.aliyuncs.com/2026/3dds/2026amd.pdf", "https://3dshow.3ddl.net/i/AMD"]
@@ -57,6 +61,7 @@
       "registrationUrl": "https://v.wjx.cn/vm/rnjb9Aj.aspx",
       "currentEdition": "2026俄罗斯技术创新国际赛（叶卡捷琳堡赛区）",
       "note": "延期至2026年9月18日24:00；还需提交盖章材料并接受组委会资格确认，不属于普通个人在线报名。",
+      "registrationMonths": [8, 9],
       "checkedAt": "2026-08-01",
       "homepageCarousel": false,
       "evidenceLinks": ["https://v.wjx.cn/vm/rnjb9Aj.aspx"]
@@ -69,6 +74,7 @@
       "currentEdition": "2027 MCM/ICM",
       "label": "指导教师注册",
       "note": "2027届注册已开放，截止2027年1月28日15:00（美国东部时间）；由指导教师注册，同校3名本科生组队。",
+      "registrationMonths": [8, 9, 10, 11, 12, 1],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": [
@@ -83,6 +89,7 @@
       "officialUrl": "https://www.boxuegu.com/match/",
       "currentEdition": "2026传智杯全国IT技能大赛",
       "note": "官方日程将2026年7月至11月列为报名期，未公布具体到日的截止时间，请以赛道页实时状态为准。",
+      "registrationMonths": [7, 8, 9, 10, 11],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": ["https://www.boxuegu.com/match/", "https://www.boxuegu.com/matchTrack/"]
@@ -94,6 +101,7 @@
       "officialUrl": "https://www.gonghangbei.com/",
       "currentEdition": "2026年“工行杯”全国大学生金融科技创新大赛",
       "note": "官网将2026年5月至9月列为报名及作品提交阶段，具体到日的截止时间尚未公布。",
+      "registrationMonths": [5, 6, 7, 8, 9],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": ["https://www.gonghangbei.com/index/Details/index.html?id=130", "https://www.gonghangbei.com/login.html"]
@@ -105,6 +113,7 @@
       "officialUrl": "https://www.cnmaker.org.cn/ds/detail/d3c48d9d725e4926b8631421917bf6fa.html",
       "currentEdition": "第十一届“创客中国”元宇宙中小企业创新创业大赛",
       "note": "当前核实开放的是“创客中国”官网内的元宇宙专题赛；官网仍显示立即参赛，但未公布精确报名截止时点。",
+      "registrationMonths": [8],
       "checkedAt": "2026-08-01",
       "homepageCarousel": true,
       "evidenceLinks": [
@@ -119,6 +128,7 @@
       "officialUrl": "https://www.cdaglobal.com/article/551.html",
       "currentEdition": "2026年全国大学生数据分析实践赛",
       "note": "官方通知显示报名期为2026年7月21日9:00至12月11日16:00，但未提供可核验的独立网页报名入口；请查看通知并联系组织方。",
+      "registrationMonths": [7, 8, 9, 10, 11, 12],
       "checkedAt": "2026-08-01",
       "homepageCarousel": false,
       "evidenceLinks": ["https://www.cdaglobal.com/article/551.html"]

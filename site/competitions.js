@@ -15,19 +15,35 @@
   const categories = Array.isArray(window.CATEGORIES) ? window.CATEGORIES : [];
   const meta = window.SITE_META || {};
   const params = new URLSearchParams(window.location.search);
+  const categoryKeys = categories.map((item) => item.key);
+  const allTypes = Array.from(new Set(items.flatMap((item) => item.typeTags || []))).sort((a, b) => a.localeCompare(b, "zh-CN"));
+  const monthValues = Array.from({ length: 12 }, (_, index) => String(index + 1));
+  const validLevels = ["all", "A+", "A", "B+", "B", "C"];
+
+  function readMultiParam(name, allowed) {
+    const selected = params.getAll(name)
+      .flatMap((value) => value.split(","))
+      .map((value) => value.trim())
+      .filter((value) => value && value !== "all" && allowed.includes(value));
+    return new Set(selected);
+  }
+
+  const requestedLevel = params.get("level") || "all";
   const state = {
     query: params.get("q") || "",
-    level: params.get("level") || "all",
-    category: params.get("category") || "all",
-    type: params.get("type") || "all",
+    level: validLevels.includes(requestedLevel) ? requestedLevel : "all",
+    categories: readMultiParam("category", categoryKeys),
+    types: readMultiParam("type", allTypes),
+    months: readMultiParam("month", [...monthValues, "unknown"]),
     link: params.get("link") || "all",
     page: Math.max(1, Number(params.get("page")) || 1),
     size: [20, 40, 80].includes(Number(params.get("size"))) ? Number(params.get("size")) : 20
   };
 
   const search = document.getElementById("search-input");
-  const categoryFilter = document.getElementById("category-filter");
-  const typeFilter = document.getElementById("type-filter");
+  const categoryOptions = document.getElementById("category-options");
+  const typeOptions = document.getElementById("type-options");
+  const monthOptions = document.getElementById("month-options");
   const linkFilter = document.getElementById("link-filter");
   const pageSize = document.getElementById("page-size");
   const list = document.getElementById("competition-list");
@@ -39,14 +55,6 @@
   document.getElementById("catalog-total").textContent = String(items.length);
   search.value = state.query;
   pageSize.value = String(state.size);
-
-  categoryFilter.insertAdjacentHTML("beforeend", categories.map((item) => `<option value="${escapeHTML(item.key)}">${escapeHTML(item.label)}</option>`).join(""));
-  const allTypes = Array.from(new Set(items.flatMap((item) => item.typeTags || []))).sort((a, b) => a.localeCompare(b, "zh-CN"));
-  typeFilter.insertAdjacentHTML("beforeend", allTypes.map((item) => `<option value="${escapeHTML(item)}">${escapeHTML(item)}</option>`).join(""));
-  categoryFilter.value = categories.some((item) => item.key === state.category) ? state.category : "all";
-  state.category = categoryFilter.value;
-  typeFilter.value = allTypes.includes(state.type) ? state.type : "all";
-  state.type = typeFilter.value;
   linkFilter.value = ["all", "official", "registration", "missing"].includes(state.link) ? state.link : "all";
   state.link = linkFilter.value;
 
@@ -59,6 +67,93 @@
     button.querySelector("small").textContent = String(value === "all" ? items.length : levelCounts[value] || 0);
     button.setAttribute("aria-selected", String(value === state.level));
   });
+
+  function itemMatchesCategory(item, value) {
+    return item.primaryCategory === value || (item.categoryTags || []).includes(value);
+  }
+
+  function optionHTML(group, value, label, count, checked, index) {
+    const id = `${group}-option-${index}`;
+    return `<label class="multi-option" for="${id}">
+      <input id="${id}" type="checkbox" value="${escapeHTML(value)}" data-filter-group="${group}" ${checked ? "checked" : ""}>
+      <span>${escapeHTML(label)}</span><small>${count}</small>
+    </label>`;
+  }
+
+  function buildFilterOptions() {
+    categoryOptions.innerHTML = categories.map((category, index) => optionHTML(
+      "category",
+      category.key,
+      category.label,
+      items.filter((item) => itemMatchesCategory(item, category.key)).length,
+      state.categories.has(category.key),
+      index
+    )).join("");
+
+    typeOptions.innerHTML = allTypes.map((type, index) => optionHTML(
+      "type",
+      type,
+      type,
+      items.filter((item) => (item.typeTags || []).includes(type)).length,
+      state.types.has(type),
+      index
+    )).join("");
+
+    const monthItems = [
+      ...monthValues.map((value) => ({
+        value,
+        label: `${value}月`,
+        count: items.filter((item) => (item.registrationMonths || []).includes(Number(value))).length
+      })),
+      {
+        value: "unknown",
+        label: "待确认",
+        count: items.filter((item) => !(item.registrationMonths || []).length).length
+      }
+    ];
+    monthOptions.innerHTML = monthItems.map((month, index) => optionHTML(
+      "month",
+      month.value,
+      month.label,
+      month.count,
+      state.months.has(month.value),
+      index
+    )).join("");
+  }
+
+  const groupConfig = {
+    category: {
+      values: state.categories,
+      allLabel: "全部方向",
+      labelFor: (value) => categories.find((item) => item.key === value)?.label || value
+    },
+    type: {
+      values: state.types,
+      allLabel: "全部类型",
+      labelFor: (value) => value
+    },
+    month: {
+      values: state.months,
+      allLabel: "全部月份",
+      labelFor: (value) => value === "unknown" ? "待确认" : `${value}月`
+    }
+  };
+
+  function syncMultiControls() {
+    Object.entries(groupConfig).forEach(([group, config]) => {
+      document.querySelectorAll(`[data-filter-group="${group}"]`).forEach((input) => {
+        input.checked = config.values.has(input.value);
+      });
+      const summaryNode = document.querySelector(`[data-filter-summary="${group}"]`);
+      if (!config.values.size) {
+        summaryNode.textContent = config.allLabel;
+      } else if (config.values.size === 1) {
+        summaryNode.textContent = config.labelFor(Array.from(config.values)[0]);
+      } else {
+        summaryNode.textContent = `已选 ${config.values.size} 项`;
+      }
+    });
+  }
 
   function searchableText(item) {
     return [
@@ -85,8 +180,13 @@
     const keyword = state.query.trim().toLocaleLowerCase("zh-CN");
     return items
       .filter((item) => state.level === "all" || item.level === state.level)
-      .filter((item) => state.category === "all" || item.primaryCategory === state.category || (item.categoryTags || []).includes(state.category))
-      .filter((item) => state.type === "all" || (item.typeTags || []).includes(state.type))
+      .filter((item) => !state.categories.size || Array.from(state.categories).some((value) => itemMatchesCategory(item, value)))
+      .filter((item) => !state.types.size || Array.from(state.types).some((value) => (item.typeTags || []).includes(value)))
+      .filter((item) => {
+        if (!state.months.size) return true;
+        const itemMonths = item.registrationMonths || [];
+        return Array.from(state.months).some((value) => value === "unknown" ? !itemMonths.length : itemMonths.includes(Number(value)));
+      })
       .filter((item) => {
         if (state.link === "official") return Boolean(websiteFor(item).url);
         if (state.link === "registration") return Boolean(registrationFor(item).url);
@@ -97,9 +197,35 @@
       .sort((a, b) => levelRank(a.level) - levelRank(b.level) || Number(a.catalogNo) - Number(b.catalogNo) || a.name.localeCompare(b.name, "zh-CN"));
   }
 
+  function compactMonths(values) {
+    const months = Array.from(new Set((values || []).map(Number).filter((value) => value >= 1 && value <= 12))).sort((a, b) => a - b);
+    if (!months.length) return "";
+    const ranges = [];
+    let start = months[0];
+    let end = months[0];
+    months.slice(1).forEach((month) => {
+      if (month === end + 1) {
+        end = month;
+      } else {
+        ranges.push(start === end ? `${start}月` : `${start}—${end}月`);
+        start = month;
+        end = month;
+      }
+    });
+    ranges.push(start === end ? `${start}月` : `${start}—${end}月`);
+    return ranges.join("、");
+  }
+
+  function monthTagHTML(item) {
+    const months = compactMonths(item.registrationMonths);
+    if (!months) return '<span class="tag month-tag is-unknown">待确认</span>';
+    const title = item.registrationText || "报名月份以当届通知为准";
+    return `<span class="tag month-tag" title="${escapeHTML(title)}">${months}</span>`;
+  }
+
   function tagHTML(item) {
     const values = [categoryLabel(item.primaryCategory), ...(item.typeTags || []).slice(0, 1)];
-    return `<div class="tag-row">${values.map((value) => `<span class="tag">${escapeHTML(value)}</span>`).join("")}</div>`;
+    return `<div class="tag-row">${values.map((value) => `<span class="tag">${escapeHTML(value)}</span>`).join("")}${monthTagHTML(item)}</div>`;
   }
 
   function statusHTML(item) {
@@ -134,12 +260,17 @@
     return output.join("");
   }
 
+  function appendMultiParams(target, name, values) {
+    values.forEach((value) => target.append(name, value));
+  }
+
   function updateUrl() {
     const next = new URLSearchParams();
     if (state.query.trim()) next.set("q", state.query.trim());
     if (state.level !== "all") next.set("level", state.level);
-    if (state.category !== "all") next.set("category", state.category);
-    if (state.type !== "all") next.set("type", state.type);
+    appendMultiParams(next, "category", state.categories);
+    appendMultiParams(next, "type", state.types);
+    appendMultiParams(next, "month", state.months);
     if (state.link !== "all") next.set("link", state.link);
     if (state.page > 1) next.set("page", String(state.page));
     if (state.size !== 20) next.set("size", String(state.size));
@@ -158,6 +289,7 @@
     empty.hidden = visible.length > 0;
     pagination.innerHTML = paginationHTML(totalPages);
     document.querySelectorAll("[data-level]").forEach((button) => button.setAttribute("aria-selected", String(button.dataset.level === state.level)));
+    syncMultiControls();
     updateUrl();
     if (scroll) document.querySelector(".catalog-shell")?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
@@ -165,16 +297,18 @@
   function reset() {
     state.query = "";
     state.level = "all";
-    state.category = "all";
-    state.type = "all";
+    state.categories.clear();
+    state.types.clear();
+    state.months.clear();
     state.link = "all";
     state.page = 1;
     search.value = "";
-    categoryFilter.value = "all";
-    typeFilter.value = "all";
     linkFilter.value = "all";
     render();
   }
+
+  buildFilterOptions();
+  syncMultiControls();
 
   document.getElementById("level-tabs").addEventListener("click", (event) => {
     const button = event.target.closest("[data-level]");
@@ -184,10 +318,48 @@
     render();
   });
   search.addEventListener("input", () => { state.query = search.value; state.page = 1; render(); });
-  categoryFilter.addEventListener("change", () => { state.category = categoryFilter.value; state.page = 1; render(); });
-  typeFilter.addEventListener("change", () => { state.type = typeFilter.value; state.page = 1; render(); });
   linkFilter.addEventListener("change", () => { state.link = linkFilter.value; state.page = 1; render(); });
   pageSize.addEventListener("change", () => { state.size = Number(pageSize.value); state.page = 1; render(); });
+
+  document.querySelector(".filter-row").addEventListener("change", (event) => {
+    const input = event.target.closest("[data-filter-group]");
+    if (!input) return;
+    const config = groupConfig[input.dataset.filterGroup];
+    if (!config) return;
+    if (input.checked) config.values.add(input.value);
+    else config.values.delete(input.value);
+    state.page = 1;
+    render();
+  });
+
+  document.querySelector(".filter-row").addEventListener("click", (event) => {
+    const button = event.target.closest("[data-clear-filter]");
+    if (!button) return;
+    const config = groupConfig[button.dataset.clearFilter];
+    if (!config) return;
+    config.values.clear();
+    state.page = 1;
+    render();
+  });
+
+  document.querySelectorAll(".multi-filter").forEach((details) => {
+    details.addEventListener("toggle", () => {
+      if (!details.open) return;
+      document.querySelectorAll(".multi-filter[open]").forEach((other) => {
+        if (other !== details) other.open = false;
+      });
+    });
+  });
+  document.addEventListener("click", (event) => {
+    document.querySelectorAll(".multi-filter[open]").forEach((details) => {
+      if (!details.contains(event.target)) details.open = false;
+    });
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape") return;
+    document.querySelectorAll(".multi-filter[open]").forEach((details) => { details.open = false; });
+  });
+
   document.getElementById("reset-filters").addEventListener("click", reset);
   document.getElementById("empty-reset").addEventListener("click", reset);
   pagination.addEventListener("click", (event) => {
