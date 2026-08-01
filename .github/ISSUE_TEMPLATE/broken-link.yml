@@ -1,0 +1,36 @@
+name: 报告失效入口
+description: 报告官网或报名入口打不开、过期或跳错页面
+title: "[入口问题] "
+body:
+  - type: input
+    id: event
+    attributes:
+      label: 赛事名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 出问题的地址
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 页面打不开
+        - 跳转到非赛事官网
+        - 仍显示旧年份
+        - 报名已经关闭
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 具体情况
+      placeholder: 请说明看到的页面或错误提示
+    validations:
+      required: true

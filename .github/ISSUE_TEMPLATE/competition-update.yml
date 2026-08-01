@@ -1,0 +1,49 @@
+name: 补充或更新赛事
+description: 提交主办方官方通知、官网或报名入口
+title: "[赛事更新] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 赛事名称
+      placeholder: 请填写完整名称
+    validations:
+      required: true
+  - type: input
+    id: official
+    attributes:
+      label: 主办方官方页面
+      description: 不接受学校喜报、转载文章或搜索结果页
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: registration
+    attributes:
+      label: 官方报名入口（如有）
+      description: 没有独立报名入口可留空
+      placeholder: https://
+  - type: dropdown
+    id: year
+    attributes:
+      label: 页面明确对应的届次
+      options:
+        - "2026"
+        - "2026—2027"
+        - "2027"
+    validations:
+      required: true
+  - type: textarea
+    id: dates
+    attributes:
+      label: 报名与比赛时间
+      placeholder: 请写明页面中可确认的日期
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 与计算机或 AI 学生的相关性
+      placeholder: 适合哪些技术方向或项目
+    validations:
+      required: true

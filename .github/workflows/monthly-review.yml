@@ -1,0 +1,55 @@
+name: Monthly competition review
+
+on:
+  schedule:
+    - cron: "20 9 1 * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Check official and registration links
+        id: links
+        continue-on-error: true
+        run: node scripts/check-links.mjs --report link-audit.md
+
+      - name: Create or update monthly review issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          review_month="$(TZ=Asia/Shanghai date +'%Y-%m')"
+          title="月度赛事更新检查 ${review_month}"
+          {
+            echo "# ${title}"
+            echo
+            echo "请按以下顺序人工复核："
+            echo
+            echo "- [ ] 逐项确认是否出现新的当届或下一届官方通知"
+            echo "- [ ] 已开放报名的项目补充主办方官方报名入口"
+            echo "- [ ] 已关闭报名的项目改为不可点击，并写明下一次预计窗口"
+            echo "- [ ] 仍未出现新一届官方信息的项目从学生网站撤下"
+            echo "- [ ] C 类候选仅在官网、年份和参与价值均核实后加入"
+            echo "- [ ] 更新 site/data.js、页面更新时间与 sitemap.xml"
+            echo
+            cat link-audit.md
+          } > monthly-review.md
+
+          existing="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number // empty')"
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body-file monthly-review.md
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file monthly-review.md
+          fi
+
+      - name: Mark hard link failures
+        if: steps.links.outcome == 'failure'
+        run: exit 1

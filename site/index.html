@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071b3d">
+  <meta name="description" content="面向广州软件学院学生的计算机与人工智能竞赛导航，简洁查看年度赛事、核心推荐、官网与报名状态。">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="计算机与人工智能竞赛导航">
+  <meta property="og:description" content="找到适合你的下一场比赛。面向广州软件学院学生的简洁竞赛指南。">
+  <meta property="og:image" content="https://jianfeng777.github.io/gzist-competition-guide/assets/og-cover.jpg">
+  <meta property="og:url" content="https://jianfeng777.github.io/gzist-competition-guide/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://jianfeng777.github.io/gzist-competition-guide/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>计算机与人工智能竞赛导航｜广州软件学院</title>
+</head>
+<body data-page="home">
+  <a class="skip-link" href="#main-content">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="index.html" aria-label="返回首页">
+        <span class="brand-mark" aria-hidden="true">&lt;/&gt;</span>
+        <span class="brand-copy">
+          <strong>计算机与人工智能竞赛导航</strong>
+          <small>广州软件学院 · 学生版</small>
+        </span>
+      </a>
+
+      <button class="nav-toggle icon-button" type="button" aria-expanded="false" aria-controls="primary-nav">
+        <span class="sr-only">打开导航</span>
+        <span aria-hidden="true">☰</span>
+      </button>
+
+      <nav class="primary-nav" id="primary-nav" aria-label="主导航">
+        <a href="index.html" data-nav="home">首页</a>
+        <a href="competitions.html" data-nav="competitions">年度赛事</a>
+        <a href="core.html" data-nav="core">核心推荐</a>
+      </nav>
+
+      <button class="share-button" id="share-button" type="button">
+        <span aria-hidden="true">↗</span>
+        <span>分享</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="hero shell" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">2026 计算机类竞赛指南</p>
+        <h1 id="hero-title">找到适合你的<br>下一场比赛</h1>
+        <p class="hero-summary">按月份了解赛事，用核心推荐快速选方向。报名入口与赛事官网分开显示，避免点错页面。</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="competitions.html">浏览年度赛事</a>
+          <a class="button button-secondary" href="core.html">查看核心推荐</a>
+        </div>
+        <div class="hero-facts" aria-label="站点概况">
+          <span><strong id="annual-count">54</strong> 项年度赛事</span>
+          <span><strong id="core-count">7</strong> 项核心推荐</span>
+          <span>学生可直接使用</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell" aria-labelledby="quick-title">
+      <div class="section-heading compact-heading">
+        <div>
+          <p class="eyebrow">从这里开始</p>
+          <h2 id="quick-title">三种简单的浏览方式</h2>
+        </div>
+      </div>
+      <div class="entry-grid">
+        <a class="entry-card entry-card-featured" href="core.html">
+          <span class="entry-icon" aria-hidden="true">★</span>
+          <div>
+            <strong>先看核心推荐</strong>
+            <p>7 项更适合长期投入的计算机与 AI 赛事。</p>
+          </div>
+          <span class="entry-arrow" aria-hidden="true">→</span>
+        </a>
+        <a class="entry-card" href="competitions.html">
+          <span class="entry-icon" aria-hidden="true">▦</span>
+          <div>
+            <strong>按月份找赛事</strong>
+            <p>看看本月该报名、准备，还是等待下一届。</p>
+          </div>
+          <span class="entry-arrow" aria-hidden="true">→</span>
+        </a>
+        <a class="entry-card" href="competitions.html?view=all">
+          <span class="entry-icon" aria-hidden="true">⌕</span>
+          <div>
+            <strong>搜索全部赛事</strong>
+            <p>按名称、等级和方向快速筛选。</p>
+          </div>
+          <span class="entry-arrow" aria-hidden="true">→</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="section section-tinted" aria-labelledby="month-title">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow" id="month-eyebrow">本月关注</p>
+            <h2 id="month-title">现在可以做什么</h2>
+          </div>
+          <a class="text-link" href="competitions.html">查看完整月历 <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="focus-grid" id="home-focus-list" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section shell student-note" aria-labelledby="choose-title">
+      <div class="student-note-copy">
+        <p class="eyebrow">给第一次参赛的同学</p>
+        <h2 id="choose-title">先选方向，再看等级</h2>
+        <p>有课程项目，就优先参加作品与应用类赛事；喜欢算法，就尽早进入训练；已有成熟成果，再考虑创业和成果转化类比赛。</p>
+      </div>
+      <a class="button button-secondary" href="core.html">帮我选方向</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <div>
+        <strong>计算机与人工智能竞赛导航</strong>
+        <p>面向广州软件学院学生的公开信息整理。</p>
+      </div>
+      <p>赛事安排以主办方官网及学校通知为准 · 更新于 <time datetime="2026-08-01">2026年8月</time></p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">请启用 JavaScript 以查看本月推荐；年度赛事和核心推荐页面仍可正常打开。</p></noscript>
+  <script src="data.js"></script>
+  <script src="site.js"></script>
+  <script src="home.js"></script>
+</body>
+</html>

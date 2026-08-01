@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071b3d">
+  <meta name="description" content="按月份、等级和方向浏览广州软件学院学生可关注的计算机与人工智能竞赛。">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="年度赛事｜计算机与人工智能竞赛导航">
+  <meta property="og:description" content="按月份、等级和方向查找计算机与人工智能赛事。">
+  <meta property="og:image" content="https://jianfeng777.github.io/gzist-competition-guide/assets/og-cover.jpg">
+  <meta property="og:url" content="https://jianfeng777.github.io/gzist-competition-guide/competitions.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://jianfeng777.github.io/gzist-competition-guide/competitions.html">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>年度赛事｜计算机与人工智能竞赛导航</title>
+</head>
+<body data-page="competitions">
+  <a class="skip-link" href="#main-content">跳到主要内容</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="index.html" aria-label="返回首页">
+        <span class="brand-mark" aria-hidden="true">&lt;/&gt;</span>
+        <span class="brand-copy"><strong>计算机与人工智能竞赛导航</strong><small>广州软件学院 · 学生版</small></span>
+      </a>
+      <button class="nav-toggle icon-button" type="button" aria-expanded="false" aria-controls="primary-nav"><span class="sr-only">打开导航</span><span aria-hidden="true">☰</span></button>
+      <nav class="primary-nav" id="primary-nav" aria-label="主导航">
+        <a href="index.html" data-nav="home">首页</a>
+        <a href="competitions.html" data-nav="competitions">年度赛事</a>
+        <a href="core.html" data-nav="core">核心推荐</a>
+      </nav>
+      <button class="share-button" id="share-button" type="button"><span aria-hidden="true">↗</span><span>分享</span></button>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="page-intro shell">
+      <p class="eyebrow">年度赛事</p>
+      <h1>按时间找到合适的比赛</h1>
+      <p>列表只保留学生最需要的信息。点击赛事可查看报名状态、参赛方向和主办方官网。</p>
+    </section>
+
+    <section class="catalog-shell shell" aria-labelledby="catalog-title">
+      <h2 class="sr-only" id="catalog-title">赛事目录</h2>
+      <div class="catalog-toolbar" id="catalog-toolbar">
+        <label class="search-field">
+          <span class="sr-only">搜索赛事</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="搜索赛事名称或方向" autocomplete="off">
+        </label>
+        <div class="filter-row" aria-label="赛事筛选">
+          <label>
+            <span>等级</span>
+            <select id="level-filter">
+              <option value="all">全部等级</option>
+              <option value="A+">A+</option>
+              <option value="A">A</option>
+              <option value="B+">B+</option>
+              <option value="B">B</option>
+              <option value="C">C · 更多可选</option>
+            </select>
+          </label>
+          <label>
+            <span>方向</span>
+            <select id="category-filter">
+              <option value="all">全部方向</option>
+              <option value="core">计算机核心</option>
+              <option value="cross">跨专业可做 AI</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="month-panel">
+        <div class="month-panel-head">
+          <div>
+            <strong id="month-heading">8月</strong>
+            <span id="result-summary">正在整理赛事…</span>
+          </div>
+          <button class="subtle-button" id="all-months-button" type="button">查看全年</button>
+        </div>
+        <div class="month-strip" id="month-strip" aria-label="选择月份"></div>
+      </div>
+
+      <div class="catalog-results" id="competition-list" aria-live="polite"></div>
+      <div class="empty-state" id="empty-state" hidden>
+        <span aria-hidden="true">⌕</span>
+        <h3>没有找到匹配的赛事</h3>
+        <p>试试清空搜索，或切换月份与筛选条件。</p>
+        <button class="button button-secondary" id="reset-filters" type="button">清空筛选</button>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="detail-dialog" id="competition-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <header class="dialog-header">
+        <div>
+          <div class="badge-row" id="dialog-badges"></div>
+          <h2 id="dialog-title">赛事详情</h2>
+        </div>
+        <button class="dialog-close icon-button" type="button" data-close-dialog><span class="sr-only">关闭详情</span><span aria-hidden="true">×</span></button>
+      </header>
+      <div class="dialog-body" id="dialog-body"></div>
+      <footer class="dialog-footer" id="dialog-footer"></footer>
+    </div>
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <div><strong>计算机与人工智能竞赛导航</strong><p>面向广州软件学院学生的公开信息整理。</p></div>
+      <p>赛事安排以主办方官网及学校通知为准 · 更新于 <time datetime="2026-08-01">2026年8月</time></p>
+    </div>
+  </footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">此页面需要启用 JavaScript 才能筛选赛事。</p></noscript>
+  <script src="data.js"></script>
+  <script src="site.js"></script>
+  <script src="competitions.js"></script>
+</body>
+</html>
